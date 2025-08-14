@@ -1,0 +1,50 @@
+Customer_ID,Name,Age,Income,predicted_CLV,CLV_segment,purchase_count,recency_days
+2043,Kirk Francis,24,105450,168.80006,Très Élevée,6.0,803.0
+2047,John Zamora,35,72557,146.89322,Très Élevée,4.0,818.0
+2040,Gary Williams,61,85820,67.52797,Très Élevée,3.0,780.0
+2031,Neil Williams,39,80015,53.90562,Très Élevée,2.0,817.0
+2025,Andrea Chung,47,36910,51.048542,Très Élevée,4.0,786.0
+2026,John Lane,55,30206,43.36842,Très Élevée,5.0,779.0
+2041,April Leonard,20,92623,43.362293,Très Élevée,3.0,843.0
+2033,Robert Fields,42,117939,34.402435,Très Élevée,5.0,799.0
+2005,Jennifer Clark,27,85604,33.871647,Très Élevée,5.0,806.0
+2004,Luke Lewis,30,95000,32.131775,Très Élevée,4.0,781.0
+2044,Elizabeth Olson,38,52299,32.082134,Élevée,3.0,782.0
+2034,Lindsey Ruiz,44,48141,28.89532,Élevée,1.0,918.0
+2029,Nathan Torres,50,53419,25.822226,Élevée,3.0,779.0
+2010,Joshua Cruz,38,82256,22.960175,Élevée,3.0,793.0
+2013,James Ray,40,107373,21.32308,Élevée,3.0,828.0
+2017,Joseph Ryan,53,40965,20.560328,Élevée,1.0,846.0
+2003,Brian Greene,22,64520,19.526062,Élevée,1.0,872.0
+2039,Jeremy Lowe,64,63827,19.498625,Élevée,2.0,783.0
+2027,Melissa Warren MD,19,117054,19.273016,Élevée,2.0,779.0
+2001,Andrew Perez,28,81254,18.356005,Élevée,2.0,797.0
+2032,Dr. Adam Duke,61,84268,18.112835,Moyenne,3.0,802.0
+2020,Robert Warren,20,38110,18.027021,Moyenne,1.0,866.0
+2015,Catherine Brown,28,114651,16.77378,Moyenne,3.0,834.0
+2037,Mary Wheeler,33,86044,16.737469,Moyenne,3.0,794.0
+2046,John Dawson,56,94044,16.55272,Moyenne,2.0,789.0
+2028,Kelly Morgan,38,117897,15.421856,Moyenne,2.0,787.0
+2024,Stephanie Stout,61,112948,14.577201,Moyenne,1.0,869.0
+2030,James Rodriguez,29,80636,13.195737,Moyenne,2.0,825.0
+2023,Lindsey Barnett MD,41,82992,11.445362,Moyenne,1.0,784.0
+2009,Jonathan Sanchez,25,108603,9.2771225,Faible,1.0,870.0
+2048,Sandra Jones,21,79080,8.165695,Faible,1.0,944.0
+2042,David Shea,54,111734,7.4468203,Faible,1.0,852.0
+2038,Raymond Hensley,32,97214,6.6615796,Faible,1.0,780.0
+2011,David Payne,56,119135,5.8335185,Faible,1.0,952.0
+2008,Diane Morales,60,60535,5.5651813,Faible,1.0,862.0
+2022,Ryan Hardy,19,57266,5.1477814,Faible,2.0,798.0
+2007,Jennifer Sanchez,32,38392,4.3974066,Faible,1.0,887.0
+2014,Chad Harris,28,109575,3.2410922,Faible,1.0,951.0
+2002,Katherine Smith,35,100000,3.1550775,Faible,2.0,955.0
+2019,Mrs. Annette Goodman,41,100592,2.657256,Très Faible,1.0,954.0
+2018,Melissa Foster,57,54538,2.5757887,Très Faible,1.0,789.0
+2035,Albert Lucero,59,110356,2.3929057,Très Faible,1.0,801.0
+2021,Timothy Wilson,39,109309,2.2951899,Très Faible,1.0,800.0
+2016,Daniel Patrick,41,93335,2.105787,Très Faible,1.0,797.0
+2045,Nancy Vance,26,73585,0.33707884,Très Faible,,
+2036,Marc Miranda,45,101910,0.0019643484,Très Faible,1.0,834.0
+2049,Joe Brown,42,32693,-9.4830524e-05,Très Faible,1.0,867.0
+2006,Susan Collins,46,52662,-9.96412e-05,Très Faible,,
+2012,Miguel Meyer,36,65222,-0.00024759103,Très Faible,1.0,827.0
