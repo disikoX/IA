@@ -7,10 +7,9 @@ IA/
 │   └── script/
 │       └── data_exploration.py
 │       └── segmentation_client.py
-│   ├── customers_data_extended.xlsx
-│   ├── sales_data_extended.xlsx
-│   ├── marketing_data_extended.xlsx
-│   ├── customer_feedback.xlsx
+│       ├── jupyter_notebook/
+│           ├── data_exploration.ipynb
+│           ├── segmentation_client.ipynb
 │
 ├── data/
 │   └── script/
@@ -29,11 +28,10 @@ IA/
 
 ```
 pip install -r requirements.txt
-```
-## TODOS
-> [!IMPORTANT]
-> Il faut nettoyer les données
 
-> [!IMPORTANT]
-> Remplir les tables avec aucunes valeurs
+```
+
+## To run .ipynb
+install anaconda or install jupyter extension from VSCode
+
 
