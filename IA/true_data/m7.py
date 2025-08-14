@@ -39,7 +39,7 @@ if role_sel:
 col1, col2, col3 = st.columns(3)
 col1.metric("Incidents (filtrés)", len(df_inc))
 col2.metric("Impact total (MGA)", f"{df_inc['ImpactAriary'].sum():,.0f}")
-col3.metric("Taux d’échec (logins)", f"{(df_log['Resultat'].eq('failure').mean() if len(df_log)>0 else 0):.2%}")
+col3.metric("Taux d’échec (logins)", f"{(df_log['Resultat'].eq('échec').mean() if len(df_log)>0 else 0):.2%}")
 
 # Graph 1 : Incidents / mois
 st.subheader("Incidents par mois")
@@ -63,7 +63,7 @@ st.pyplot(fig2)
 
 # Graph 3 : Taux d’échec des connexions (mensuel)
 st.subheader("Taux d’échec des connexions (mensuel)")
-log_m = df_log.set_index("DateHeure").resample("M")["Resultat"].apply(lambda s: (s=="failure").mean())
+log_m = df_log.set_index("DateHeure").resample("M")["Resultat"].apply(lambda s: (s=="échec").mean())
 fig3, ax3 = plt.subplots()
 log_m.plot(ax=ax3)
 ax3.set_title("Taux d’échec (mensuel)")
