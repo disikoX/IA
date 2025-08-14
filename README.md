@@ -10,6 +10,7 @@ IA/
 │       ├── jupyter_notebook/
 │           ├── data_exploration.ipynb
 │           ├── segmentation_client.ipynb
+│           ├── segmentation_client_complete.ipynb
 │
 ├── data/
 │   └── script/
