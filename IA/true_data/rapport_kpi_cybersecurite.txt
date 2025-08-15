@@ -1,0 +1,28 @@
+============================================================
+RAPPORT KPI CYBERSÉCURITÉ
+============================================================
+Généré le: 2025-08-16 01:14:04
+
+PÉRIODE D'ANALYSE: 2023-01-02 à 2025-07-31
+
+INCIDENTS DE SÉCURITÉ
+------------------------------
+• Total des incidents: 1,000
+• Impact financier total: 421,052,352 MGA
+• Moyenne mensuelle: 32.3 incidents
+• Secteur le plus affecté: Commerce
+• Temps moyen de résolution: N/A
+
+AUTHENTIFICATIONS
+------------------------------
+• Total des tentatives: 20,000
+• Taux d'échec: 18.39%
+• Utilisateurs uniques: 150
+• Adresses IP uniques: 20,000
+
+ANALYSE DES TENDANCES
+------------------------------
+• Incidents - Tendance: increasing
+  Changement: 3.7%
+• Taux d'échec - Tendance: increasing
+  Changement: 1.4%
