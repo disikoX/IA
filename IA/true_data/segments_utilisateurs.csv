@@ -1,0 +1,151 @@
+Utilisateur,Role,Departement,nb_echecs,nb_succes,nb_total,nb_pays,nb_ip,ratio_echec,cluster_risque
+abrown,Support IT,Comptabilité,18,100,118,9,118,0.15254237288135594,3
+adkinsbrian,Employé,IT,28,106,134,9,134,0.208955223880597,0
+adrianzimmerman,Admin système,Ventes,13,122,135,9,135,0.0962962962962963,1
+agomez,Développeur,Logistique,26,107,133,9,133,0.19548872180451127,0
+amandasanchez,Manager,Ventes,25,110,135,9,135,0.18518518518518517,0
+amydavenport,Développeur,Marketing,33,126,159,9,159,0.20754716981132076,2
+angela36,Stagiaire,IT,37,113,150,9,150,0.24666666666666667,2
+barnesbrandy,Stagiaire,Ventes,39,84,123,9,123,0.3170731707317073,3
+bethwilliams,Développeur,IT,27,101,128,9,128,0.2109375,0
+beverlyterrell,Manager,RH,25,114,139,9,139,0.17985611510791366,0
+bradley60,Manager,Logistique,33,111,144,9,144,0.22916666666666666,0
+brianromero,Employé,Comptabilité,25,100,125,9,125,0.2,3
+brownjessica,Support IT,IT,27,115,142,9,142,0.19014084507042253,0
+bryantlaurie,Manager,IT,40,106,146,9,146,0.273972602739726,0
+caseyjones,Développeur,Marketing,33,91,124,9,124,0.2661290322580645,3
+cassandra07,Stagiaire,Comptabilité,32,111,143,9,143,0.22377622377622378,0
+chad34,Stagiaire,RH,27,117,144,9,144,0.1875,2
+chapmanjerry,Support IT,Production,19,116,135,9,135,0.14074074074074075,1
+cheryl80,Stagiaire,Comptabilité,16,116,132,9,132,0.12121212121212122,1
+cindy14,Développeur,RH,23,97,120,9,120,0.19166666666666668,3
+clarence34,Support IT,Comptabilité,29,115,144,9,144,0.2013888888888889,2
+darrell18,Stagiaire,IT,27,92,119,9,119,0.226890756302521,3
+david51,Stagiaire,Production,34,107,141,9,141,0.24113475177304963,0
+davidalvarez,Employé,Logistique,24,109,133,9,133,0.18045112781954886,0
+dcarlson,Développeur,Production,28,116,144,9,144,0.19444444444444445,2
+ddavis,Support IT,Production,29,95,124,9,124,0.23387096774193547,3
+dking,Stagiaire,Marketing,25,109,134,9,134,0.1865671641791045,0
+donaldgarcia,Employé,Marketing,32,122,154,9,154,0.2077922077922078,2
+donnacampbell,Stagiaire,IT,27,99,126,9,126,0.21428571428571427,3
+drivera,Développeur,RH,23,106,129,9,129,0.17829457364341086,0
+dshields,Employé,Ventes,24,101,125,9,125,0.192,3
+dudleynicholas,Stagiaire,Comptabilité,22,130,152,9,152,0.14473684210526316,2
+elizabeth56,Développeur,Production,16,108,124,9,124,0.12903225806451613,1
+emurphy,Développeur,RH,30,95,125,9,125,0.24,3
+ericfarmer,Développeur,Comptabilité,35,105,140,9,140,0.25,0
+erik16,Employé,IT,31,98,129,9,129,0.24031007751937986,0
+esanchez,Support IT,Ventes,28,108,136,9,136,0.20588235294117646,0
+evan78,Stagiaire,Ventes,30,115,145,9,145,0.20689655172413793,2
+evelynestrada,Stagiaire,IT,26,119,145,9,145,0.1793103448275862,2
+gabriellecameron,Support IT,Ventes,38,102,140,9,140,0.2714285714285714,0
+gabrieltucker,Manager,Comptabilité,21,89,110,9,110,0.19090909090909092,3
+garrisonjeffrey,Manager,Production,23,94,117,9,117,0.19658119658119658,3
+garzaanthony,Employé,Marketing,32,105,137,9,137,0.23357664233576642,0
+georgetracy,Admin système,Production,13,131,144,9,144,0.09027777777777778,1
+gibsonolivia,Stagiaire,Marketing,24,87,111,9,111,0.21621621621621623,3
+glee,Employé,Logistique,23,111,134,9,134,0.17164179104477612,0
+harrellkenneth,Stagiaire,Logistique,24,104,128,9,128,0.1875,3
+hernandezernest,Développeur,Logistique,27,112,139,9,139,0.19424460431654678,0
+hhoffman,Manager,Marketing,36,125,161,9,161,0.2236024844720497,2
+hickmannatasha,Admin système,Production,7,114,121,9,121,0.05785123966942149,1
+hoffmanjennifer,Admin système,Marketing,9,119,128,9,128,0.0703125,1
+hshaw,Manager,IT,27,101,128,9,128,0.2109375,0
+ibrandt,Développeur,Production,38,99,137,9,137,0.2773722627737226,0
+ilewis,Développeur,RH,19,92,111,9,111,0.17117117117117117,3
+ithomas,Manager,RH,28,103,131,9,131,0.21374045801526717,0
+jacqueline19,Employé,Comptabilité,20,112,132,9,132,0.15151515151515152,1
+james48,Support IT,Ventes,27,97,124,9,124,0.21774193548387097,3
+jamesmichael,Employé,RH,24,105,129,9,129,0.18604651162790697,0
+janetwilliams,Employé,Comptabilité,30,108,138,9,138,0.21739130434782608,0
+jasminebrown,Stagiaire,Comptabilité,24,133,157,9,157,0.15286624203821655,2
+jason76,Support IT,Marketing,30,88,118,9,118,0.2542372881355932,3
+jason99,Admin système,Marketing,12,109,121,9,121,0.09917355371900827,1
+jeffrey28,Stagiaire,Ventes,24,114,138,9,138,0.17391304347826086,0
+jeffreykeller,Admin système,RH,9,119,128,9,128,0.0703125,1
+jennifercruz,Support IT,IT,22,93,115,9,115,0.19130434782608696,3
+jenniferross,Employé,Logistique,24,112,136,9,136,0.17647058823529413,0
+john39,Manager,IT,30,93,123,9,123,0.24390243902439024,3
+johnsonjoshua,Stagiaire,RH,28,108,136,9,136,0.20588235294117646,0
+jonesjason,Manager,IT,22,110,132,9,132,0.16666666666666666,0
+josephanderson,Manager,Logistique,22,122,144,9,144,0.1527777777777778,2
+josephbrennan,Employé,IT,27,104,131,9,131,0.20610687022900764,0
+josephflores,Stagiaire,Marketing,33,106,139,9,139,0.23741007194244604,0
+josephjacobs,Employé,Comptabilité,21,94,115,9,115,0.1826086956521739,3
+jpeterson,Manager,Production,27,105,132,9,132,0.20454545454545456,0
+jrivas,Support IT,RH,22,103,125,9,125,0.176,3
+julieryan,Stagiaire,Comptabilité,29,117,146,9,146,0.19863013698630136,2
+kayla51,Admin système,Logistique,10,142,152,9,152,0.06578947368421052,1
+kendragalloway,Support IT,Production,27,98,125,9,125,0.216,3
+khowell,Admin système,Marketing,9,116,125,9,125,0.072,1
+kimberly63,Admin système,Production,13,116,129,9,129,0.10077519379844961,1
+kimberly69,Stagiaire,RH,38,112,150,9,150,0.25333333333333335,2
+landryhannah,Manager,Production,17,100,117,9,117,0.1452991452991453,3
+lbyrd,Développeur,Ventes,32,121,153,9,153,0.20915032679738563,2
+lindsayhernandez,Support IT,Production,23,101,124,9,124,0.18548387096774194,3
+lisa02,Manager,Ventes,21,103,124,9,124,0.1693548387096774,3
+lrobinson,Manager,Production,25,103,128,9,128,0.1953125,3
+ltaylor,Stagiaire,IT,29,100,129,9,129,0.2248062015503876,0
+maria95,Support IT,RH,25,109,134,9,134,0.1865671641791045,0
+maryramirez,Employé,Ventes,18,102,120,9,120,0.15,3
+michael86,Admin système,Comptabilité,11,131,142,9,142,0.07746478873239436,1
+michaeljones,Stagiaire,Ventes,25,99,124,9,124,0.20161290322580644,3
+michellebarrera,Stagiaire,Marketing,31,109,140,9,140,0.22142857142857142,0
+michellejames,Développeur,Logistique,16,89,105,9,105,0.1523809523809524,3
+mikemoore,Admin système,Logistique,13,101,114,9,114,0.11403508771929824,3
+millertodd,Manager,IT,25,108,133,9,133,0.18796992481203006,0
+mitchellclark,Employé,Logistique,22,103,125,9,125,0.176,3
+mlam,Admin système,RH,16,139,155,9,155,0.1032258064516129,2
+nicholasgalloway,Employé,Logistique,21,112,133,9,133,0.15789473684210525,0
+novaksara,Support IT,RH,26,107,133,9,133,0.19548872180451127,0
+ogray,Manager,RH,28,110,138,9,138,0.2028985507246377,0
+osbornejeffery,Développeur,Logistique,27,102,129,9,129,0.20930232558139536,0
+perezantonio,Support IT,Marketing,29,122,151,9,151,0.19205298013245034,2
+perezrebecca,Employé,Marketing,33,113,146,9,146,0.22602739726027396,2
+psanchez,Développeur,Logistique,32,90,122,9,122,0.26229508196721313,3
+pwilliams,Admin système,Marketing,15,116,131,9,131,0.11450381679389313,1
+rachel05,Admin système,IT,10,134,144,9,144,0.06944444444444445,1
+richard04,Manager,Comptabilité,18,102,120,9,120,0.15,3
+richard13,Employé,IT,28,120,148,9,148,0.1891891891891892,2
+richarddavid,Admin système,Production,10,134,144,9,144,0.06944444444444445,1
+robinsonwilliam,Stagiaire,Production,38,99,137,9,137,0.2773722627737226,0
+rodriguezryan,Support IT,IT,25,102,127,9,127,0.1968503937007874,3
+rsims,Employé,Marketing,27,113,140,9,140,0.19285714285714287,0
+russellwilliams,Développeur,RH,21,99,120,9,120,0.175,3
+ryan70,Employé,Comptabilité,26,128,154,9,154,0.16883116883116883,2
+samuel81,Stagiaire,RH,35,101,136,9,136,0.25735294117647056,0
+samuel87,Admin système,Production,9,115,124,9,124,0.07258064516129033,1
+sanchezthomas,Admin système,Production,12,111,123,9,123,0.0975609756097561,1
+sara74,Employé,RH,32,97,129,9,129,0.24806201550387597,0
+sarah12,Stagiaire,Comptabilité,24,113,137,9,137,0.17518248175182483,0
+sarah35,Admin système,Production,16,117,133,9,133,0.12030075187969924,1
+sarayoung,Support IT,Ventes,37,97,134,9,134,0.27611940298507465,0
+sheila14,Employé,Comptabilité,25,108,133,9,133,0.18796992481203006,0
+sjones,Manager,Marketing,24,93,117,9,117,0.20512820512820512,3
+smithkellie,Support IT,Comptabilité,18,99,117,9,117,0.15384615384615385,3
+smoore,Manager,Production,26,110,136,9,136,0.19117647058823528,0
+spenceamanda,Admin système,Ventes,15,112,127,9,127,0.11811023622047244,1
+staffordmichelle,Support IT,Marketing,20,104,124,9,124,0.16129032258064516,3
+stephanie79,Manager,RH,35,106,141,9,141,0.24822695035460993,0
+stephen10,Admin système,Production,15,127,142,9,142,0.1056338028169014,1
+steven17,Support IT,Production,22,114,136,9,136,0.16176470588235295,0
+steven73,Manager,IT,26,107,133,9,133,0.19548872180451127,0
+susanrogers,Stagiaire,Logistique,22,101,123,9,123,0.17886178861788618,3
+tanyariley,Admin système,Logistique,17,129,146,9,146,0.11643835616438356,1
+tasha01,Support IT,RH,23,113,136,9,136,0.16911764705882354,0
+taylorjesse,Manager,Logistique,37,134,171,9,171,0.21637426900584794,2
+teresa28,Manager,Ventes,35,106,141,9,141,0.24822695035460993,0
+theresacochran,Manager,RH,23,104,127,9,127,0.18110236220472442,3
+uhorton,Stagiaire,Logistique,27,94,121,9,121,0.2231404958677686,3
+vjohnson,Stagiaire,Production,26,122,148,9,148,0.17567567567567569,2
+vmerritt,Développeur,Comptabilité,25,91,116,9,116,0.21551724137931033,3
+waltersmaria,Manager,Comptabilité,29,111,140,9,140,0.20714285714285716,0
+wcole,Employé,Marketing,16,114,130,9,130,0.12307692307692308,1
+williamsyvette,Admin système,RH,18,125,143,9,143,0.1258741258741259,1
+wrightcaleb,Admin système,RH,8,118,126,9,126,0.06349206349206349,1
+wrightjames,Admin système,RH,13,123,136,9,136,0.09558823529411764,1
+xreid,Employé,Ventes,34,106,140,9,140,0.24285714285714285,0
+ybailey,Employé,IT,26,124,150,9,150,0.17333333333333334,2
+ycarlson,Manager,IT,30,98,128,9,128,0.234375,0
+yleon,Manager,Production,24,116,140,9,140,0.17142857142857143,0
+zhurst,Stagiaire,Comptabilité,31,106,137,9,137,0.22627737226277372,0

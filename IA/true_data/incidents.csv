@@ -1,0 +1,1001 @@
+Entreprise,Secteur,Taille,TypeAttaque,Date,Vecteur,ImpactAriary,IndispoHeures,DonneesCompromises,CampagneSécurité
+Blair PLC,Industrie,1435,ransomware,2023-01-02 02:03:03.450548,RDP exposé,404847.37,31,Non,MFA
+Abbott-Munoz,Technologie,259,exploitation de vulnérabilité,2023-01-03 00:46:49.882258,API vulnérable,812571.29,26,Oui,PatchUrgent
+Dudley Group,Finance,1566,ddos,2023-01-03 10:03:25.019292,site compromis,964234.21,30,Non,PatchUrgent
+"Watts, Robinson and Nguyen",Commerce,526,fuite de données,2023-01-04 01:26:52.778452,email,304431.8,0,Non,AuditSécurité
+Morales-Jones,Éducation,1282,exploitation de vulnérabilité,2023-01-07 18:44:35.044478,clé USB,606758.61,9,Oui,AuditSécurité
+Doyle Ltd,Transport,278,exploitation de vulnérabilité,2023-01-08 15:16:23.380011,clé USB,233927.76,34,Non,
+Blair PLC,Énergie,1435,exploitation de vulnérabilité,2023-01-09 18:49:38.712735,RDP exposé,303008.69,9,Oui,AuditSécurité
+"Henderson, Ramirez and Lewis",Transport,335,account takeover,2023-01-12 13:35:26.193100,email,635033.87,29,Oui,PatchUrgent
+Blair PLC,Santé,1435,intrusion,2023-01-12 22:20:36.465193,email,562762.59,15,Oui,FormationPhishing
+Blake and Sons,Éducation,507,exploitation de vulnérabilité,2023-01-13 21:28:49.727265,port ouvert,186347.73,12,Oui,FormationPhishing
+Davis and Sons,Transport,1568,fuite de données,2023-01-14 21:59:59.309554,API vulnérable,42681.77,24,Non,MFA
+"Snyder, Campos and Callahan",Santé,1486,exploitation de vulnérabilité,2023-01-15 11:20:48.609665,port ouvert,509182.87,2,Non,FormationPhishing
+"Rodriguez, Figueroa and Sanchez",Éducation,1359,ddos,2023-01-15 21:09:26.935288,API vulnérable,155818.52,19,Oui,MFA
+"Henderson, Ramirez and Lewis",Énergie,335,phishing,2023-01-17 06:14:58.004061,email,41593.23,42,Non,FormationPhishing
+Morales-Jones,Finance,1282,exploitation de vulnérabilité,2023-01-19 10:02:50.081598,port ouvert,510904.98,5,Oui,MFA
+Garcia-James,Transport,1558,ransomware,2023-01-20 13:30:40.194252,téléchargement,167764.97,38,Non,MFA
+Arnold Ltd,Éducation,1877,intrusion,2023-01-20 20:02:50.540927,site compromis,331151.86,29,Oui,PatchUrgent
+Wilkerson-Day,Finance,1199,malware,2023-01-21 16:32:13.123528,RDP exposé,659614.47,15,Oui,FormationPhishing
+"Adams, Zuniga and Wong",Énergie,111,phishing,2023-01-25 09:22:27.280318,téléchargement,152505.93,23,Non,AuditSécurité
+"Henderson, Ramirez and Lewis",Industrie,335,malware,2023-01-27 00:39:19.118979,email,181629.58,2,Non,FormationPhishing
+Williams and Sons,Transport,228,ransomware,2023-01-28 05:22:23.596823,clé USB,73122.22,28,Non,AuditSécurité
+"Flowers, Martin and Kelly",Commerce,115,account takeover,2023-01-28 07:08:02.934117,API vulnérable,299192.72,27,Oui,PatchUrgent
+"Adams, Zuniga and Wong",Finance,111,malware,2023-01-30 06:16:15.364806,site compromis,111526.39,14,Non,FormationPhishing
+"Flowers, Martin and Kelly",Santé,115,malware,2023-01-30 09:00:04.584233,port ouvert,750479.82,47,Oui,FormationPhishing
+Abbott-Munoz,Transport,259,fuite de données,2023-01-30 14:56:17.039961,RDP exposé,418475.36,8,Non,
+"Henderson, Ramirez and Lewis",Santé,335,account takeover,2023-01-31 18:42:18.745132,téléchargement,596496.87,29,Non,FormationPhishing
+"Ross, Robinson and Bright",Commerce,1380,account takeover,2023-02-01 11:06:21.856144,téléchargement,4120.93,12,Non,AuditSécurité
+"Guzman, Hoffman and Baldwin",Santé,613,malware,2023-02-03 23:23:19.754134,port ouvert,75517.93,35,Non,AuditSécurité
+Morales-Jones,Commerce,1282,malware,2023-02-04 14:31:46.031735,API vulnérable,205176.31,8,Non,FormationPhishing
+"Walter, Edwards and Rios",Technologie,104,exploitation de vulnérabilité,2023-02-05 02:11:05.589534,site compromis,171235.29,8,Non,MFA
+Wilkerson-Day,Énergie,1199,ddos,2023-02-06 01:50:12.805797,port ouvert,125918.05,24,Non,AuditSécurité
+Davis and Sons,Industrie,1568,intrusion,2023-02-06 12:24:55.154491,téléchargement,1043570.82,34,Oui,
+"Snyder, Campos and Callahan",Santé,1486,account takeover,2023-02-07 04:12:42.097972,clé USB,620310.01,30,Oui,
+Doyle Ltd,Énergie,278,ransomware,2023-02-07 11:25:59.883334,port ouvert,649799.94,27,Non,PatchUrgent
+"Hoffman, Baker and Richards",Finance,1516,intrusion,2023-02-07 14:54:03.173087,clé USB,651691.22,23,Non,PatchUrgent
+Galloway-Wyatt,Commerce,1259,phishing,2023-02-07 23:07:19.807761,email,529272.14,48,Non,
+Morales-Jones,Technologie,1282,account takeover,2023-02-08 17:28:35.597371,port ouvert,310616.41,32,Non,AuditSécurité
+Blair PLC,Transport,1435,fuite de données,2023-02-09 10:40:14.585079,API vulnérable,391629.26,0,Non,PatchUrgent
+Blake and Sons,Santé,507,account takeover,2023-02-11 13:46:17.734930,email,142730.08,38,Oui,
+"Guzman, Hoffman and Baldwin",Finance,613,intrusion,2023-02-11 20:33:21.711592,site compromis,783891.03,27,Non,MFA
+Blake and Sons,Commerce,507,exploitation de vulnérabilité,2023-02-12 18:17:20.496677,site compromis,111324.68,26,Oui,FormationPhishing
+Dudley Group,Santé,1566,phishing,2023-02-12 22:06:40.840748,téléchargement,658163.84,28,Oui,
+Perez Inc,Finance,1084,malware,2023-02-13 13:54:31.924351,RDP exposé,1124478.05,37,Non,AuditSécurité
+"Watts, Robinson and Nguyen",Santé,526,malware,2023-02-17 06:49:16.957048,téléchargement,20022.24,25,Oui,
+"Reid, Ferguson and Sanchez",Finance,241,malware,2023-02-17 16:41:34.271960,port ouvert,832853.92,13,Oui,PatchUrgent
+"Reid, Ferguson and Sanchez",Transport,241,intrusion,2023-02-17 21:40:50.020933,email,460116.6,45,Non,MFA
+Abbott-Munoz,Énergie,259,fuite de données,2023-02-18 16:04:39.705663,RDP exposé,674777.07,6,Oui,PatchUrgent
+Dudley Group,Transport,1566,account takeover,2023-02-19 02:48:05.348741,clé USB,76111.52,31,Oui,MFA
+"Mcclain, Miller and Henderson",Transport,101,exploitation de vulnérabilité,2023-02-21 02:00:08.313978,port ouvert,512833.67,13,Non,AuditSécurité
+"Reid, Ferguson and Sanchez",Transport,241,exploitation de vulnérabilité,2023-02-21 02:44:48.696886,RDP exposé,274333.73,19,Non,AuditSécurité
+Doyle Ltd,Transport,278,ransomware,2023-02-21 10:01:58.404176,RDP exposé,699005.05,0,Non,PatchUrgent
+James Group,Santé,914,exploitation de vulnérabilité,2023-02-22 22:05:25.333701,port ouvert,149922.96,21,Oui,MFA
+Wilkerson-Day,Technologie,1199,exploitation de vulnérabilité,2023-02-23 15:17:55.134310,email,299529.85,16,Oui,MFA
+Abbott-Munoz,Santé,259,ddos,2023-02-25 03:35:37.912953,email,263465.24,23,Non,
+James Group,Technologie,914,fuite de données,2023-02-25 12:25:51.931002,RDP exposé,603741.62,26,Oui,PatchUrgent
+Galloway-Wyatt,Santé,1259,intrusion,2023-02-26 05:43:41.196999,site compromis,221905.74,22,Non,AuditSécurité
+Garcia-James,Finance,1558,ddos,2023-02-26 19:07:56.094814,clé USB,497377.17,34,Non,PatchUrgent
+Baker and Sons,Commerce,457,ransomware,2023-02-27 02:22:10.624867,téléchargement,150705.93,24,Oui,FormationPhishing
+"Hoffman, Baker and Richards",Transport,1516,ddos,2023-02-27 03:47:09.742959,RDP exposé,436618.81,23,Oui,PatchUrgent
+"Hoffman, Baker and Richards",Transport,1516,intrusion,2023-02-27 11:35:30.327564,clé USB,73715.92,9,Oui,
+Williams and Sons,Éducation,228,ransomware,2023-02-28 17:11:51.222940,clé USB,774636.66,15,Oui,FormationPhishing
+Abbott-Munoz,Transport,259,ddos,2023-03-01 22:26:43.869646,RDP exposé,146348.93,29,Oui,PatchUrgent
+Dudley Group,Commerce,1566,ddos,2023-03-02 09:02:02.708368,téléchargement,575331.72,24,Oui,MFA
+Williams and Sons,Commerce,228,account takeover,2023-03-03 14:51:09.444595,port ouvert,167930.83,27,Oui,FormationPhishing
+"Reid, Ferguson and Sanchez",Éducation,241,ransomware,2023-03-05 13:24:15.212853,API vulnérable,329941.4,33,Non,
+"Mcclain, Miller and Henderson",Finance,101,exploitation de vulnérabilité,2023-03-06 02:05:24.935713,API vulnérable,1266516.69,0,Non,
+Perez Inc,Commerce,1084,exploitation de vulnérabilité,2023-03-06 14:46:29.286308,port ouvert,993008.41,9,Non,AuditSécurité
+"Mcclain, Miller and Henderson",Énergie,101,exploitation de vulnérabilité,2023-03-06 16:58:15.456313,API vulnérable,106394.35,19,Non,
+Doyle Ltd,Éducation,278,phishing,2023-03-06 20:53:06.071303,port ouvert,211110.2,26,Non,PatchUrgent
+Abbott-Munoz,Éducation,259,account takeover,2023-03-07 00:37:43.899285,site compromis,525100.59,22,Oui,
+"Mcclure, Ward and Lee",Éducation,1166,phishing,2023-03-07 11:07:49.870304,site compromis,335228.41,23,Non,FormationPhishing
+"Mcclain, Miller and Henderson",Énergie,101,fuite de données,2023-03-07 19:56:30.197933,téléchargement,510905.33,42,Non,PatchUrgent
+Arnold Ltd,Énergie,1877,exploitation de vulnérabilité,2023-03-09 02:56:25.194457,téléchargement,261148.75,30,Non,AuditSécurité
+Davis and Sons,Finance,1568,ddos,2023-03-11 15:38:33.097927,clé USB,418279.9,34,Non,MFA
+Baker and Sons,Santé,457,ddos,2023-03-12 13:30:46.491306,clé USB,971054.98,48,Non,FormationPhishing
+"Mcclure, Ward and Lee",Transport,1166,ransomware,2023-03-13 00:10:30.489750,email,886334.77,34,Oui,PatchUrgent
+Blake and Sons,Énergie,507,intrusion,2023-03-13 02:06:38.857273,site compromis,457517.63,30,Non,MFA
+Doyle Ltd,Finance,278,fuite de données,2023-03-16 06:25:46.260949,email,657701.06,27,Oui,
+"Watts, Robinson and Nguyen",Santé,526,phishing,2023-03-17 17:41:46.807275,API vulnérable,114907.69,18,Oui,
+"Guzman, Hoffman and Baldwin",Énergie,613,fuite de données,2023-03-17 23:38:00.773190,téléchargement,105758.9,7,Oui,PatchUrgent
+Blair PLC,Industrie,1435,fuite de données,2023-03-18 13:26:04.986416,email,289947.08,40,Oui,MFA
+Davis and Sons,Transport,1568,phishing,2023-03-19 07:26:54.359376,API vulnérable,606431.06,31,Non,AuditSécurité
+Blair PLC,Commerce,1435,exploitation de vulnérabilité,2023-03-21 03:53:56.269141,RDP exposé,10093.41,20,Non,PatchUrgent
+"Adams, Zuniga and Wong",Commerce,111,ransomware,2023-03-22 07:48:51.547765,email,124972.21,25,Oui,MFA
+"Henderson, Ramirez and Lewis",Éducation,335,ddos,2023-03-25 00:58:09.228366,API vulnérable,332556.83,20,Non,AuditSécurité
+Gray-Mayo,Transport,497,intrusion,2023-03-27 03:44:04.847525,téléchargement,383643.66,46,Oui,PatchUrgent
+"Mcclure, Ward and Lee",Industrie,1166,phishing,2023-03-27 05:27:54.050268,port ouvert,361583.86,22,Oui,MFA
+"Flowers, Martin and Kelly",Énergie,115,fuite de données,2023-03-28 10:45:10.540217,port ouvert,183385.0,21,Non,PatchUrgent
+"Mcclure, Ward and Lee",Industrie,1166,intrusion,2023-03-29 22:43:23.342133,clé USB,1357329.28,1,Non,AuditSécurité
+James Group,Commerce,914,ransomware,2023-03-30 01:32:20.803596,port ouvert,444980.45,8,Oui,
+"Reid, Ferguson and Sanchez",Transport,241,account takeover,2023-03-30 22:46:53.134336,téléchargement,244757.21,14,Non,AuditSécurité
+Morales-Jones,Technologie,1282,intrusion,2023-04-02 15:00:50.614513,téléchargement,848497.27,23,Oui,MFA
+"Adams, Zuniga and Wong",Technologie,111,ransomware,2023-04-03 07:52:13.211971,API vulnérable,677000.88,31,Non,
+"Snyder, Campos and Callahan",Finance,1486,fuite de données,2023-04-04 13:51:15.351491,clé USB,252100.55,23,Oui,
+Blake and Sons,Énergie,507,phishing,2023-04-05 00:40:30.515867,email,1063481.93,19,Non,AuditSécurité
+"Hoffman, Baker and Richards",Industrie,1516,ransomware,2023-04-05 06:46:32.252381,RDP exposé,193876.61,13,Non,PatchUrgent
+"Gardner, Robinson and Lawrence",Transport,551,exploitation de vulnérabilité,2023-04-05 15:27:06.034302,email,243746.09,18,Non,MFA
+Gray-Mayo,Santé,497,intrusion,2023-04-05 18:40:47.506750,site compromis,186242.55,45,Oui,
+"Rodriguez, Figueroa and Sanchez",Transport,1359,intrusion,2023-04-07 17:45:49.039562,email,104658.8,26,Oui,
+Garcia-James,Industrie,1558,ransomware,2023-04-08 16:22:10.961087,API vulnérable,545072.0,19,Oui,PatchUrgent
+"Mcclain, Miller and Henderson",Éducation,101,intrusion,2023-04-09 15:18:16.516341,API vulnérable,134045.23,35,Non,PatchUrgent
+"Ross, Robinson and Bright",Santé,1380,ransomware,2023-04-11 08:17:23.069607,API vulnérable,371809.14,2,Non,FormationPhishing
+"Hoffman, Baker and Richards",Transport,1516,fuite de données,2023-04-11 13:46:36.293890,clé USB,641554.89,23,Non,AuditSécurité
+"Adams, Zuniga and Wong",Technologie,111,ddos,2023-04-12 19:23:31.665481,téléchargement,326869.83,29,Oui,PatchUrgent
+"Adams, Zuniga and Wong",Finance,111,ransomware,2023-04-14 00:58:36.255952,API vulnérable,307046.87,9,Non,MFA
+Dudley Group,Éducation,1566,ddos,2023-04-14 15:51:11.179561,port ouvert,417174.44,16,Non,
+Blake and Sons,Technologie,507,account takeover,2023-04-16 11:47:25.294065,téléchargement,182086.98,42,Non,MFA
+"Adams, Zuniga and Wong",Santé,111,account takeover,2023-04-16 11:55:46.795792,clé USB,366157.01,15,Oui,
+"Ross, Robinson and Bright",Commerce,1380,ddos,2023-04-17 23:51:07.273472,RDP exposé,935585.16,21,Non,PatchUrgent
+Arnold Ltd,Commerce,1877,fuite de données,2023-04-18 04:06:40.000295,site compromis,786562.32,28,Oui,FormationPhishing
+Williams and Sons,Éducation,228,exploitation de vulnérabilité,2023-04-18 14:01:12.607991,email,351317.73,14,Non,MFA
+Galloway-Wyatt,Technologie,1259,fuite de données,2023-04-18 20:51:42.999645,clé USB,44719.72,36,Non,AuditSécurité
+Perez Inc,Industrie,1084,ransomware,2023-04-18 21:25:09.434055,email,102545.86,37,Oui,AuditSécurité
+Baker and Sons,Finance,457,fuite de données,2023-04-19 00:32:06.169945,RDP exposé,233764.1,6,Non,FormationPhishing
+Blair PLC,Technologie,1435,ddos,2023-04-19 05:37:02.198274,RDP exposé,136745.31,27,Non,PatchUrgent
+"Ross, Robinson and Bright",Éducation,1380,phishing,2023-04-20 01:17:43.382946,RDP exposé,488536.06,21,Oui,AuditSécurité
+"Hoffman, Baker and Richards",Santé,1516,account takeover,2023-04-20 07:32:15.660908,email,228324.96,30,Oui,AuditSécurité
+"Watts, Robinson and Nguyen",Technologie,526,account takeover,2023-04-20 12:02:19.391175,RDP exposé,14651.11,15,Non,PatchUrgent
+Garcia-James,Transport,1558,ransomware,2023-04-21 00:36:35.280024,clé USB,221801.22,44,Non,MFA
+Gray-Mayo,Technologie,497,phishing,2023-04-25 10:35:16.140675,clé USB,496550.63,20,Non,MFA
+"Hoffman, Baker and Richards",Commerce,1516,account takeover,2023-04-27 13:03:37.045553,téléchargement,599970.95,4,Oui,
+Gray-Mayo,Industrie,497,malware,2023-04-28 12:31:12.518817,email,539293.12,37,Non,FormationPhishing
+"Watts, Robinson and Nguyen",Commerce,526,account takeover,2023-04-29 14:12:42.828230,port ouvert,348060.14,27,Oui,FormationPhishing
+"Ross, Robinson and Bright",Technologie,1380,exploitation de vulnérabilité,2023-04-29 23:58:04.895472,RDP exposé,763025.13,23,Oui,
+Blair PLC,Énergie,1435,malware,2023-04-30 01:12:20.081974,email,132991.42,24,Oui,PatchUrgent
+"Mcclure, Ward and Lee",Éducation,1166,intrusion,2023-04-30 08:49:31.970206,site compromis,239317.6,0,Oui,
+Arnold Ltd,Finance,1877,intrusion,2023-04-30 12:47:57.700707,téléchargement,480459.72,20,Oui,PatchUrgent
+Blake and Sons,Santé,507,ddos,2023-05-04 08:42:38.019603,clé USB,202621.85,24,Oui,MFA
+James Group,Industrie,914,ransomware,2023-05-04 10:02:14.211991,port ouvert,852739.4,24,Non,PatchUrgent
+"Snyder, Campos and Callahan",Transport,1486,phishing,2023-05-04 13:05:29.031384,téléchargement,483439.35,21,Oui,MFA
+"Flowers, Martin and Kelly",Finance,115,fuite de données,2023-05-04 22:06:43.210470,RDP exposé,808579.26,42,Oui,AuditSécurité
+Baker and Sons,Énergie,457,malware,2023-05-05 06:58:14.489202,RDP exposé,204801.76,29,Oui,MFA
+"Mcclain, Miller and Henderson",Technologie,101,intrusion,2023-05-05 21:45:25.561922,téléchargement,212748.6,20,Oui,AuditSécurité
+James Group,Transport,914,malware,2023-05-06 17:43:50.293080,site compromis,363066.51,8,Oui,FormationPhishing
+Gray-Mayo,Industrie,497,account takeover,2023-05-09 17:27:24.677210,site compromis,698023.84,14,Non,MFA
+Morales-Jones,Technologie,1282,account takeover,2023-05-09 23:35:15.812154,API vulnérable,860927.45,16,Oui,MFA
+Garcia-James,Transport,1558,intrusion,2023-05-13 04:36:20.692256,site compromis,229104.36,10,Oui,AuditSécurité
+Davis and Sons,Finance,1568,ddos,2023-05-15 03:05:29.803781,téléchargement,107356.17,22,Non,FormationPhishing
+"Snyder, Campos and Callahan",Éducation,1486,account takeover,2023-05-16 22:31:31.346990,RDP exposé,562828.16,39,Oui,PatchUrgent
+"Ross, Robinson and Bright",Transport,1380,account takeover,2023-05-17 09:32:13.310759,email,473563.14,12,Oui,PatchUrgent
+Galloway-Wyatt,Technologie,1259,exploitation de vulnérabilité,2023-05-19 22:54:53.544767,port ouvert,84532.73,32,Non,FormationPhishing
+"Ross, Robinson and Bright",Énergie,1380,intrusion,2023-05-20 03:50:04.855582,clé USB,823042.6,0,Oui,FormationPhishing
+"Gardner, Robinson and Lawrence",Énergie,551,account takeover,2023-05-20 21:05:28.112443,API vulnérable,388550.2,23,Non,AuditSécurité
+"Flowers, Martin and Kelly",Énergie,115,malware,2023-05-21 11:55:41.250493,email,393799.21,27,Non,FormationPhishing
+Perez Inc,Énergie,1084,ransomware,2023-05-21 13:23:47.720219,email,1230373.96,45,Non,
+Arnold Ltd,Technologie,1877,account takeover,2023-05-23 05:35:58.027748,site compromis,261616.62,7,Non,PatchUrgent
+Morales-Jones,Technologie,1282,ransomware,2023-05-24 01:53:08.236731,RDP exposé,794735.24,9,Oui,MFA
+Davis and Sons,Transport,1568,phishing,2023-05-24 10:26:51.385192,RDP exposé,397941.53,29,Non,
+Doyle Ltd,Santé,278,account takeover,2023-05-25 02:17:19.655427,port ouvert,274699.44,55,Oui,AuditSécurité
+"Flowers, Martin and Kelly",Transport,115,ddos,2023-05-25 03:06:17.062163,RDP exposé,448357.08,22,Non,FormationPhishing
+Davis and Sons,Commerce,1568,account takeover,2023-05-25 06:29:44.470652,clé USB,521361.38,39,Non,
+Morales-Jones,Santé,1282,ransomware,2023-05-26 04:40:28.157023,site compromis,538962.94,18,Oui,FormationPhishing
+Williams and Sons,Santé,228,malware,2023-05-27 14:05:49.538499,site compromis,1276591.23,14,Oui,AuditSécurité
+"Guzman, Hoffman and Baldwin",Industrie,613,exploitation de vulnérabilité,2023-05-28 14:38:46.149753,site compromis,291243.7,21,Non,PatchUrgent
+Arnold Ltd,Énergie,1877,intrusion,2023-05-30 03:25:34.666783,clé USB,611272.46,9,Oui,FormationPhishing
+Blake and Sons,Technologie,507,intrusion,2023-05-31 02:03:42.348647,clé USB,353900.88,3,Non,MFA
+Arnold Ltd,Santé,1877,exploitation de vulnérabilité,2023-05-31 02:57:56.096424,site compromis,603223.16,26,Non,PatchUrgent
+"Walter, Edwards and Rios",Industrie,104,exploitation de vulnérabilité,2023-05-31 20:42:45.586737,port ouvert,523844.27,42,Non,MFA
+Garcia-James,Commerce,1558,ddos,2023-06-01 15:47:17.035349,téléchargement,112520.12,14,Oui,FormationPhishing
+"Henderson, Ramirez and Lewis",Santé,335,phishing,2023-06-02 08:10:39.997795,site compromis,39587.12,21,Non,FormationPhishing
+"Flowers, Martin and Kelly",Commerce,115,malware,2023-06-02 08:55:23.833310,email,333810.21,22,Oui,MFA
+"Reid, Ferguson and Sanchez",Énergie,241,exploitation de vulnérabilité,2023-06-03 05:44:23.974862,port ouvert,1182362.57,24,Oui,
+"Ross, Robinson and Bright",Technologie,1380,malware,2023-06-04 10:20:52.136535,API vulnérable,384336.65,19,Non,MFA
+"Ross, Robinson and Bright",Éducation,1380,account takeover,2023-06-05 03:58:09.558428,port ouvert,300165.66,15,Non,
+Gray-Mayo,Énergie,497,account takeover,2023-06-05 06:04:02.393614,site compromis,1271972.04,31,Oui,FormationPhishing
+Abbott-Munoz,Industrie,259,account takeover,2023-06-05 17:09:12.007809,site compromis,28642.74,14,Non,
+Blake and Sons,Commerce,507,ransomware,2023-06-06 21:10:04.271721,API vulnérable,1030629.61,18,Oui,FormationPhishing
+"Watts, Robinson and Nguyen",Transport,526,fuite de données,2023-06-14 02:35:12.593499,clé USB,578494.31,12,Oui,FormationPhishing
+Gray-Mayo,Transport,497,fuite de données,2023-06-15 02:10:10.717621,clé USB,568421.95,20,Oui,
+Garcia-James,Éducation,1558,account takeover,2023-06-15 04:54:59.596892,clé USB,296024.56,20,Non,FormationPhishing
+Arnold Ltd,Transport,1877,ransomware,2023-06-16 02:19:54.131879,port ouvert,298260.58,32,Non,AuditSécurité
+Galloway-Wyatt,Commerce,1259,phishing,2023-06-16 23:02:57.282327,téléchargement,143835.98,21,Non,
+"Walter, Edwards and Rios",Commerce,104,intrusion,2023-06-19 03:17:25.924131,port ouvert,65250.57,17,Oui,FormationPhishing
+Perez Inc,Commerce,1084,intrusion,2023-06-19 19:02:50.810555,clé USB,1012120.13,34,Oui,AuditSécurité
+Doyle Ltd,Technologie,278,malware,2023-06-21 08:53:28.780987,email,182657.56,26,Non,
+"Rodriguez, Figueroa and Sanchez",Finance,1359,fuite de données,2023-06-23 00:42:04.413372,téléchargement,378893.68,30,Oui,FormationPhishing
+Doyle Ltd,Commerce,278,account takeover,2023-06-29 01:46:06.715204,email,833455.57,15,Oui,AuditSécurité
+"Henderson, Ramirez and Lewis",Finance,335,fuite de données,2023-06-29 05:51:46.168329,email,243294.89,22,Non,MFA
+"Hoffman, Baker and Richards",Finance,1516,account takeover,2023-06-29 07:04:01.852749,email,297192.15,19,Non,FormationPhishing
+Gray-Mayo,Éducation,497,phishing,2023-06-29 17:53:38.095057,API vulnérable,800206.95,16,Oui,PatchUrgent
+Garcia-James,Éducation,1558,intrusion,2023-06-30 03:59:20.318155,port ouvert,39826.35,29,Oui,
+"Adams, Zuniga and Wong",Santé,111,intrusion,2023-06-30 14:57:19.084229,API vulnérable,238410.95,8,Non,MFA
+"Hoffman, Baker and Richards",Énergie,1516,malware,2023-06-30 16:03:59.445756,email,286590.46,28,Non,AuditSécurité
+"Mcclure, Ward and Lee",Industrie,1166,intrusion,2023-06-30 21:43:29.944391,port ouvert,439489.91,28,Oui,FormationPhishing
+"Mcclure, Ward and Lee",Finance,1166,fuite de données,2023-07-05 19:17:56.550590,téléchargement,819062.27,11,Non,MFA
+"Mcclure, Ward and Lee",Industrie,1166,exploitation de vulnérabilité,2023-07-06 13:02:40.004651,téléchargement,52525.16,38,Oui,FormationPhishing
+Blair PLC,Commerce,1435,account takeover,2023-07-07 00:35:58.254503,clé USB,503948.25,26,Oui,PatchUrgent
+"Henderson, Ramirez and Lewis",Technologie,335,ransomware,2023-07-07 13:45:21.798502,port ouvert,219608.76,20,Oui,
+"Walter, Edwards and Rios",Énergie,104,fuite de données,2023-07-08 04:43:56.240914,site compromis,238684.15,13,Non,MFA
+Garcia-James,Énergie,1558,fuite de données,2023-07-09 08:23:16.053074,port ouvert,389519.9,38,Oui,AuditSécurité
+Garcia-James,Commerce,1558,ransomware,2023-07-13 12:12:45.275881,clé USB,700291.16,15,Non,
+"Henderson, Ramirez and Lewis",Santé,335,phishing,2023-07-18 04:51:16.287350,API vulnérable,527182.83,23,Oui,AuditSécurité
+Garcia-James,Santé,1558,account takeover,2023-07-18 14:58:13.251327,port ouvert,1294901.47,14,Non,
+"Mcclure, Ward and Lee",Transport,1166,fuite de données,2023-07-20 00:22:43.732778,clé USB,135731.24,1,Oui,
+"Watts, Robinson and Nguyen",Commerce,526,ransomware,2023-07-21 18:10:53.452786,API vulnérable,446658.95,26,Non,PatchUrgent
+"Guzman, Hoffman and Baldwin",Commerce,613,fuite de données,2023-07-24 21:14:51.014671,RDP exposé,1006110.31,34,Non,FormationPhishing
+Galloway-Wyatt,Santé,1259,phishing,2023-07-25 07:00:24.238475,téléchargement,421909.71,33,Oui,
+"Reid, Ferguson and Sanchez",Transport,241,phishing,2023-07-26 08:48:45.390011,email,62260.13,29,Oui,MFA
+"Walter, Edwards and Rios",Éducation,104,account takeover,2023-07-26 12:30:38.610075,API vulnérable,489816.59,27,Non,
+Gray-Mayo,Commerce,497,exploitation de vulnérabilité,2023-07-28 22:06:50.714131,site compromis,700528.87,17,Oui,
+"Snyder, Campos and Callahan",Technologie,1486,fuite de données,2023-07-30 05:12:20.593303,clé USB,499283.79,30,Non,
+Arnold Ltd,Énergie,1877,phishing,2023-07-31 10:35:45.796450,API vulnérable,973752.6,45,Oui,MFA
+"Henderson, Ramirez and Lewis",Finance,335,phishing,2023-07-31 21:25:31.169292,API vulnérable,113526.97,44,Oui,FormationPhishing
+Abbott-Munoz,Technologie,259,ransomware,2023-07-31 23:53:14.922314,email,217673.53,49,Non,
+"Reid, Ferguson and Sanchez",Transport,241,intrusion,2023-08-01 18:06:42.455021,RDP exposé,365990.17,26,Non,
+Blair PLC,Commerce,1435,malware,2023-08-03 12:28:10.217314,clé USB,270443.12,2,Non,PatchUrgent
+"Guzman, Hoffman and Baldwin",Transport,613,phishing,2023-08-04 21:01:02.555819,RDP exposé,479163.46,24,Non,MFA
+Abbott-Munoz,Éducation,259,ransomware,2023-08-06 00:02:21.927993,site compromis,106427.87,35,Non,
+"Flowers, Martin and Kelly",Industrie,115,account takeover,2023-08-06 09:32:13.022404,site compromis,585849.36,0,Oui,FormationPhishing
+Galloway-Wyatt,Énergie,1259,account takeover,2023-08-07 22:53:19.936636,téléchargement,607565.91,37,Oui,AuditSécurité
+Morales-Jones,Finance,1282,exploitation de vulnérabilité,2023-08-08 17:13:33.975011,email,852170.12,4,Non,
+"Ross, Robinson and Bright",Transport,1380,fuite de données,2023-08-09 02:50:51.291649,clé USB,224430.04,24,Non,FormationPhishing
+Perez Inc,Industrie,1084,phishing,2023-08-10 03:03:31.167458,API vulnérable,112409.29,24,Non,PatchUrgent
+"Watts, Robinson and Nguyen",Santé,526,intrusion,2023-08-10 09:19:12.510786,email,13896.61,37,Oui,
+"Gardner, Robinson and Lawrence",Finance,551,ransomware,2023-08-10 09:59:39.602349,port ouvert,503158.73,23,Non,PatchUrgent
+Gray-Mayo,Industrie,497,malware,2023-08-10 11:32:46.038681,téléchargement,70204.32,5,Non,
+"Hoffman, Baker and Richards",Finance,1516,ddos,2023-08-11 15:42:04.422398,email,875907.7,15,Non,MFA
+Garcia-James,Énergie,1558,ddos,2023-08-11 21:44:26.267787,site compromis,35965.93,37,Non,
+Doyle Ltd,Santé,278,intrusion,2023-08-12 05:50:21.490854,RDP exposé,76824.65,9,Non,AuditSécurité
+Davis and Sons,Transport,1568,ddos,2023-08-13 22:44:56.849387,site compromis,191788.55,38,Oui,PatchUrgent
+James Group,Éducation,914,ransomware,2023-08-14 04:38:49.472054,site compromis,64308.34,31,Non,
+"Rodriguez, Figueroa and Sanchez",Commerce,1359,ransomware,2023-08-14 14:36:44.603470,port ouvert,328014.87,35,Non,AuditSécurité
+Blake and Sons,Transport,507,phishing,2023-08-14 19:17:04.875255,téléchargement,90164.06,28,Non,FormationPhishing
+"Adams, Zuniga and Wong",Industrie,111,ransomware,2023-08-15 04:37:43.324081,site compromis,659158.3,5,Non,FormationPhishing
+"Gardner, Robinson and Lawrence",Commerce,551,ransomware,2023-08-15 15:00:40.760508,API vulnérable,219001.74,25,Non,PatchUrgent
+Arnold Ltd,Commerce,1877,account takeover,2023-08-16 03:24:21.168957,port ouvert,938947.02,17,Non,
+"Hoffman, Baker and Richards",Énergie,1516,fuite de données,2023-08-16 14:22:12.475324,API vulnérable,461417.74,17,Oui,FormationPhishing
+Williams and Sons,Commerce,228,ransomware,2023-08-18 00:10:01.849139,site compromis,266484.84,15,Non,AuditSécurité
+"Guzman, Hoffman and Baldwin",Finance,613,ransomware,2023-08-18 03:30:48.923640,site compromis,681688.06,28,Non,MFA
+"Ross, Robinson and Bright",Commerce,1380,malware,2023-08-18 10:28:56.887892,RDP exposé,1041963.85,18,Oui,MFA
+"Walter, Edwards and Rios",Énergie,104,ddos,2023-08-19 06:40:34.626675,email,656792.31,14,Non,PatchUrgent
+"Mcclure, Ward and Lee",Industrie,1166,ddos,2023-08-19 08:38:41.691883,clé USB,322483.29,17,Non,
+"Rodriguez, Figueroa and Sanchez",Technologie,1359,intrusion,2023-08-20 12:02:48.000942,email,283488.07,23,Non,MFA
+Blake and Sons,Industrie,507,exploitation de vulnérabilité,2023-08-22 04:30:56.628297,email,489659.61,15,Non,MFA
+"Hoffman, Baker and Richards",Finance,1516,account takeover,2023-08-22 18:35:59.454561,téléchargement,249825.68,17,Oui,AuditSécurité
+"Mcclain, Miller and Henderson",Transport,101,ransomware,2023-08-23 00:31:15.603488,téléchargement,136041.2,12,Non,
+"Ross, Robinson and Bright",Énergie,1380,malware,2023-08-23 01:03:27.713935,email,113464.09,24,Non,FormationPhishing
+Arnold Ltd,Technologie,1877,ddos,2023-08-25 08:11:08.658914,site compromis,369241.92,20,Non,AuditSécurité
+"Ross, Robinson and Bright",Industrie,1380,exploitation de vulnérabilité,2023-08-25 19:22:34.236645,RDP exposé,675211.92,17,Non,
+Arnold Ltd,Commerce,1877,account takeover,2023-08-26 02:00:15.708342,API vulnérable,662458.92,17,Non,MFA
+Wilkerson-Day,Éducation,1199,fuite de données,2023-08-27 00:17:26.860286,port ouvert,104756.1,21,Non,AuditSécurité
+Blair PLC,Énergie,1435,intrusion,2023-08-27 02:05:27.361093,téléchargement,519365.11,10,Oui,MFA
+"Mcclure, Ward and Lee",Industrie,1166,malware,2023-08-29 08:39:57.146394,API vulnérable,375724.1,36,Non,
+Perez Inc,Industrie,1084,exploitation de vulnérabilité,2023-08-30 15:18:26.426143,port ouvert,495327.42,37,Non,FormationPhishing
+Baker and Sons,Technologie,457,exploitation de vulnérabilité,2023-09-01 15:01:54.182243,RDP exposé,647596.61,31,Oui,
+"Snyder, Campos and Callahan",Transport,1486,intrusion,2023-09-03 07:51:27.707838,téléchargement,975250.25,12,Oui,PatchUrgent
+Abbott-Munoz,Finance,259,exploitation de vulnérabilité,2023-09-03 21:38:57.202445,email,838832.45,16,Oui,FormationPhishing
+Arnold Ltd,Industrie,1877,malware,2023-09-04 07:49:20.368932,téléchargement,329861.25,13,Oui,AuditSécurité
+"Mcclure, Ward and Lee",Commerce,1166,malware,2023-09-05 05:14:13.169429,port ouvert,147775.39,21,Oui,FormationPhishing
+Doyle Ltd,Éducation,278,fuite de données,2023-09-07 09:13:35.562979,site compromis,190290.2,20,Non,AuditSécurité
+"Mcclain, Miller and Henderson",Commerce,101,fuite de données,2023-09-07 09:23:33.846348,API vulnérable,248838.05,14,Non,MFA
+Baker and Sons,Énergie,457,ddos,2023-09-07 11:24:01.036484,téléchargement,150995.84,16,Non,FormationPhishing
+James Group,Énergie,914,phishing,2023-09-07 13:28:15.987228,port ouvert,294295.55,10,Oui,MFA
+"Mcclain, Miller and Henderson",Santé,101,phishing,2023-09-07 21:59:43.967855,téléchargement,712031.26,31,Non,
+"Flowers, Martin and Kelly",Commerce,115,account takeover,2023-09-08 05:47:50.814279,clé USB,70601.97,43,Oui,FormationPhishing
+"Henderson, Ramirez and Lewis",Énergie,335,malware,2023-09-08 11:23:15.531394,RDP exposé,612708.17,33,Oui,
+"Mcclure, Ward and Lee",Santé,1166,intrusion,2023-09-08 11:47:38.753416,site compromis,516888.44,28,Non,MFA
+"Ross, Robinson and Bright",Énergie,1380,fuite de données,2023-09-09 20:01:00.424535,site compromis,1076960.57,35,Oui,MFA
+Wilkerson-Day,Commerce,1199,ddos,2023-09-09 22:39:06.157909,API vulnérable,228506.56,27,Non,PatchUrgent
+"Gardner, Robinson and Lawrence",Technologie,551,ddos,2023-09-14 17:28:33.035667,téléchargement,124638.77,9,Oui,AuditSécurité
+Galloway-Wyatt,Finance,1259,malware,2023-09-14 23:50:20.404760,RDP exposé,263189.79,47,Non,MFA
+Baker and Sons,Éducation,457,fuite de données,2023-09-15 09:04:19.112974,téléchargement,248060.39,18,Non,MFA
+Morales-Jones,Technologie,1282,exploitation de vulnérabilité,2023-09-18 03:44:55.570486,téléchargement,554107.21,26,Oui,
+"Reid, Ferguson and Sanchez",Finance,241,intrusion,2023-09-18 17:44:22.407199,API vulnérable,578290.95,18,Oui,FormationPhishing
+"Mcclain, Miller and Henderson",Énergie,101,phishing,2023-09-19 11:17:03.530838,clé USB,45982.86,33,Non,PatchUrgent
+Blair PLC,Commerce,1435,phishing,2023-09-19 12:06:37.958598,site compromis,297922.63,12,Oui,
+"Gardner, Robinson and Lawrence",Commerce,551,ransomware,2023-09-20 07:14:22.371061,port ouvert,192994.73,8,Oui,AuditSécurité
+"Guzman, Hoffman and Baldwin",Technologie,613,ransomware,2023-09-20 09:30:13.410495,API vulnérable,344584.32,53,Oui,FormationPhishing
+Abbott-Munoz,Technologie,259,exploitation de vulnérabilité,2023-09-20 14:29:50.776964,site compromis,140012.36,26,Non,AuditSécurité
+James Group,Industrie,914,fuite de données,2023-09-20 17:20:40.117461,port ouvert,224260.81,14,Non,AuditSécurité
+Morales-Jones,Énergie,1282,ransomware,2023-09-21 00:42:14.888606,clé USB,951699.15,34,Oui,PatchUrgent
+Gray-Mayo,Commerce,497,exploitation de vulnérabilité,2023-09-21 17:13:51.244560,RDP exposé,724776.36,17,Non,FormationPhishing
+"Ross, Robinson and Bright",Finance,1380,fuite de données,2023-09-21 19:04:43.861518,site compromis,590595.35,34,Oui,PatchUrgent
+"Hoffman, Baker and Richards",Éducation,1516,ransomware,2023-09-23 16:42:28.568286,site compromis,636160.32,26,Non,FormationPhishing
+Williams and Sons,Finance,228,intrusion,2023-09-24 14:28:55.992998,téléchargement,311957.07,40,Oui,FormationPhishing
+Williams and Sons,Éducation,228,malware,2023-09-25 14:39:14.104088,site compromis,120996.05,18,Oui,MFA
+"Mcclain, Miller and Henderson",Finance,101,ddos,2023-09-26 03:10:03.546365,site compromis,275209.45,28,Non,PatchUrgent
+"Watts, Robinson and Nguyen",Industrie,526,malware,2023-09-26 17:50:04.696855,téléchargement,35519.15,26,Oui,
+Davis and Sons,Industrie,1568,ddos,2023-09-26 23:45:37.978296,téléchargement,400148.2,19,Non,PatchUrgent
+Abbott-Munoz,Santé,259,ddos,2023-09-28 23:57:41.830126,port ouvert,44424.71,10,Non,AuditSécurité
+Baker and Sons,Industrie,457,intrusion,2023-09-29 05:40:47.493187,téléchargement,213795.11,25,Non,AuditSécurité
+Blake and Sons,Finance,507,malware,2023-09-29 14:40:32.193753,email,385056.51,2,Non,FormationPhishing
+"Henderson, Ramirez and Lewis",Éducation,335,fuite de données,2023-09-29 16:23:23.500624,téléchargement,190181.1,30,Oui,PatchUrgent
+"Reid, Ferguson and Sanchez",Commerce,241,ransomware,2023-10-03 05:24:38.994641,port ouvert,571047.69,27,Non,MFA
+Blair PLC,Santé,1435,account takeover,2023-10-03 11:38:11.542266,email,1244187.35,22,Non,MFA
+"Guzman, Hoffman and Baldwin",Industrie,613,exploitation de vulnérabilité,2023-10-04 18:29:41.681575,clé USB,193251.39,11,Oui,AuditSécurité
+"Hoffman, Baker and Richards",Transport,1516,malware,2023-10-05 11:08:22.835204,RDP exposé,412882.83,6,Oui,MFA
+Abbott-Munoz,Finance,259,malware,2023-10-06 02:07:32.830817,RDP exposé,172553.0,27,Non,FormationPhishing
+"Flowers, Martin and Kelly",Commerce,115,fuite de données,2023-10-06 07:38:28.599619,email,404909.33,21,Non,FormationPhishing
+Morales-Jones,Industrie,1282,ransomware,2023-10-07 00:11:02.167309,API vulnérable,13178.8,37,Oui,AuditSécurité
+"Gardner, Robinson and Lawrence",Commerce,551,ransomware,2023-10-07 08:38:59.843820,clé USB,70478.93,21,Oui,MFA
+"Flowers, Martin and Kelly",Énergie,115,fuite de données,2023-10-08 09:41:45.942481,clé USB,1049702.86,51,Non,AuditSécurité
+"Mcclain, Miller and Henderson",Industrie,101,fuite de données,2023-10-09 14:12:05.574570,email,479895.22,36,Oui,
+"Flowers, Martin and Kelly",Finance,115,exploitation de vulnérabilité,2023-10-10 02:27:32.278209,clé USB,210396.85,15,Non,PatchUrgent
+"Hoffman, Baker and Richards",Finance,1516,exploitation de vulnérabilité,2023-10-10 09:30:58.781101,site compromis,101106.03,29,Oui,FormationPhishing
+Wilkerson-Day,Transport,1199,ransomware,2023-10-12 09:25:09.616645,RDP exposé,79460.92,28,Non,
+"Flowers, Martin and Kelly",Technologie,115,malware,2023-10-12 10:29:51.383629,port ouvert,1237041.33,12,Oui,AuditSécurité
+Blake and Sons,Finance,507,phishing,2023-10-12 21:37:03.531443,clé USB,261335.16,43,Oui,
+Doyle Ltd,Énergie,278,fuite de données,2023-10-13 00:55:12.249404,RDP exposé,563814.77,24,Oui,MFA
+"Ross, Robinson and Bright",Commerce,1380,malware,2023-10-13 06:34:04.727634,email,355453.78,41,Non,PatchUrgent
+"Adams, Zuniga and Wong",Industrie,111,fuite de données,2023-10-14 13:17:52.266629,RDP exposé,689360.12,41,Non,PatchUrgent
+"Ross, Robinson and Bright",Technologie,1380,account takeover,2023-10-14 18:11:30.567873,port ouvert,10436.13,21,Oui,AuditSécurité
+"Snyder, Campos and Callahan",Éducation,1486,malware,2023-10-17 03:29:29.544744,RDP exposé,471800.08,19,Non,PatchUrgent
+Doyle Ltd,Finance,278,ransomware,2023-10-20 17:24:47.937321,email,77128.47,20,Non,MFA
+Galloway-Wyatt,Technologie,1259,ddos,2023-10-21 00:53:49.675625,site compromis,798285.75,22,Non,
+"Guzman, Hoffman and Baldwin",Commerce,613,intrusion,2023-10-21 07:25:58.182080,port ouvert,214372.41,39,Non,MFA
+Baker and Sons,Commerce,457,fuite de données,2023-10-22 17:02:00.463498,email,794456.69,32,Oui,FormationPhishing
+Doyle Ltd,Éducation,278,phishing,2023-10-22 17:35:39.325686,téléchargement,600204.76,33,Oui,
+Morales-Jones,Santé,1282,ddos,2023-10-23 17:30:14.596951,API vulnérable,1016205.65,6,Oui,PatchUrgent
+Perez Inc,Commerce,1084,exploitation de vulnérabilité,2023-10-24 06:36:33.058042,site compromis,91159.4,37,Non,AuditSécurité
+"Snyder, Campos and Callahan",Finance,1486,exploitation de vulnérabilité,2023-10-25 13:28:51.847476,clé USB,18779.53,10,Non,
+Williams and Sons,Énergie,228,ransomware,2023-10-26 08:04:56.474923,email,189549.2,25,Oui,MFA
+Blake and Sons,Éducation,507,account takeover,2023-10-27 05:05:14.544081,clé USB,578314.59,31,Non,PatchUrgent
+"Watts, Robinson and Nguyen",Commerce,526,malware,2023-10-28 00:57:59.896639,site compromis,482754.82,2,Oui,PatchUrgent
+James Group,Éducation,914,intrusion,2023-10-30 18:11:25.615713,port ouvert,333696.16,27,Oui,AuditSécurité
+"Mcclure, Ward and Lee",Technologie,1166,ddos,2023-10-31 18:02:04.936196,site compromis,510785.94,19,Oui,FormationPhishing
+"Hoffman, Baker and Richards",Santé,1516,account takeover,2023-10-31 21:08:40.442630,téléchargement,254697.4,32,Non,FormationPhishing
+Perez Inc,Énergie,1084,account takeover,2023-10-31 22:23:50.359303,téléchargement,592900.08,29,Oui,
+Arnold Ltd,Technologie,1877,intrusion,2023-11-02 21:14:50.850940,téléchargement,583040.14,38,Non,
+Garcia-James,Industrie,1558,fuite de données,2023-11-03 11:43:14.331570,API vulnérable,899677.72,35,Non,PatchUrgent
+Garcia-James,Santé,1558,fuite de données,2023-11-04 14:10:17.409838,RDP exposé,29680.45,13,Non,AuditSécurité
+"Watts, Robinson and Nguyen",Technologie,526,exploitation de vulnérabilité,2023-11-05 02:18:26.111374,clé USB,401865.05,23,Oui,PatchUrgent
+"Henderson, Ramirez and Lewis",Transport,335,ddos,2023-11-05 16:38:44.009611,RDP exposé,692161.2,21,Non,PatchUrgent
+Blake and Sons,Santé,507,malware,2023-11-06 07:26:17.412327,téléchargement,131275.74,35,Non,FormationPhishing
+Doyle Ltd,Santé,278,fuite de données,2023-11-06 20:05:47.075545,clé USB,548193.72,35,Oui,PatchUrgent
+"Guzman, Hoffman and Baldwin",Technologie,613,exploitation de vulnérabilité,2023-11-08 14:15:27.233531,API vulnérable,460970.78,27,Non,MFA
+Williams and Sons,Éducation,228,exploitation de vulnérabilité,2023-11-09 00:30:27.511106,API vulnérable,87818.91,25,Non,
+"Gardner, Robinson and Lawrence",Technologie,551,fuite de données,2023-11-09 06:35:01.742743,site compromis,131311.88,30,Non,MFA
+Wilkerson-Day,Éducation,1199,ddos,2023-11-10 01:42:14.901749,téléchargement,139525.93,29,Oui,
+"Snyder, Campos and Callahan",Transport,1486,account takeover,2023-11-10 11:46:51.879524,clé USB,116439.14,27,Oui,
+"Henderson, Ramirez and Lewis",Technologie,335,fuite de données,2023-11-11 11:58:45.222171,email,684728.6,29,Non,
+"Rodriguez, Figueroa and Sanchez",Finance,1359,fuite de données,2023-11-11 13:03:05.694157,téléchargement,597213.83,16,Oui,
+"Adams, Zuniga and Wong",Technologie,111,malware,2023-11-13 16:54:05.215729,clé USB,458829.51,15,Non,AuditSécurité
+Gray-Mayo,Transport,497,malware,2023-11-14 05:19:41.884974,clé USB,1098843.26,31,Oui,MFA
+"Gardner, Robinson and Lawrence",Industrie,551,account takeover,2023-11-15 06:18:44.654428,téléchargement,361361.01,28,Oui,
+Blair PLC,Santé,1435,account takeover,2023-11-17 12:03:23.407786,API vulnérable,427943.89,49,Oui,FormationPhishing
+"Henderson, Ramirez and Lewis",Industrie,335,account takeover,2023-11-17 18:51:04.700299,email,100853.31,46,Oui,FormationPhishing
+"Mcclain, Miller and Henderson",Finance,101,exploitation de vulnérabilité,2023-11-18 06:51:23.996536,API vulnérable,300549.52,36,Oui,MFA
+Arnold Ltd,Éducation,1877,ransomware,2023-11-20 08:04:00.024013,API vulnérable,219860.92,16,Oui,AuditSécurité
+Morales-Jones,Transport,1282,fuite de données,2023-11-21 03:55:02.439541,RDP exposé,938270.17,40,Non,MFA
+Baker and Sons,Technologie,457,malware,2023-11-22 23:35:26.561534,site compromis,703146.4,17,Non,FormationPhishing
+Davis and Sons,Santé,1568,account takeover,2023-11-26 02:46:04.630501,téléchargement,406465.73,17,Non,FormationPhishing
+"Adams, Zuniga and Wong",Finance,111,fuite de données,2023-11-26 17:28:10.063416,clé USB,318623.08,21,Oui,PatchUrgent
+"Hoffman, Baker and Richards",Industrie,1516,fuite de données,2023-11-28 03:08:21.096243,email,88385.67,33,Oui,PatchUrgent
+Abbott-Munoz,Finance,259,ddos,2023-11-28 18:10:33.099470,RDP exposé,75152.58,15,Non,FormationPhishing
+"Walter, Edwards and Rios",Finance,104,intrusion,2023-11-30 12:27:17.490953,email,383299.12,12,Oui,PatchUrgent
+Garcia-James,Énergie,1558,ransomware,2023-12-01 02:27:45.097397,API vulnérable,338345.4,33,Non,MFA
+Garcia-James,Industrie,1558,malware,2023-12-01 14:23:55.084191,téléchargement,549111.66,28,Oui,PatchUrgent
+Davis and Sons,Technologie,1568,malware,2023-12-04 09:56:18.759450,API vulnérable,392032.72,23,Non,MFA
+Blake and Sons,Éducation,507,malware,2023-12-04 19:44:21.347623,site compromis,36919.67,23,Oui,FormationPhishing
+"Hoffman, Baker and Richards",Industrie,1516,malware,2023-12-05 00:44:32.506591,RDP exposé,238991.29,14,Oui,MFA
+Dudley Group,Énergie,1566,intrusion,2023-12-05 11:57:49.155438,port ouvert,349376.45,14,Non,AuditSécurité
+Morales-Jones,Finance,1282,phishing,2023-12-07 07:27:37.285160,site compromis,164199.37,23,Oui,MFA
+"Snyder, Campos and Callahan",Finance,1486,phishing,2023-12-08 09:39:57.799577,téléchargement,396962.5,25,Non,PatchUrgent
+"Rodriguez, Figueroa and Sanchez",Technologie,1359,account takeover,2023-12-08 13:02:22.873994,clé USB,158924.41,37,Non,AuditSécurité
+Davis and Sons,Finance,1568,exploitation de vulnérabilité,2023-12-09 00:18:37.544977,API vulnérable,94434.88,12,Non,
+Garcia-James,Énergie,1558,ddos,2023-12-09 06:58:50.602220,site compromis,1109872.55,33,Oui,AuditSécurité
+"Guzman, Hoffman and Baldwin",Énergie,613,ransomware,2023-12-10 20:47:35.141591,email,65296.58,32,Oui,FormationPhishing
+"Henderson, Ramirez and Lewis",Industrie,335,phishing,2023-12-11 01:32:21.933241,clé USB,1007687.84,20,Non,AuditSécurité
+"Guzman, Hoffman and Baldwin",Technologie,613,ransomware,2023-12-12 00:05:15.478373,API vulnérable,493346.9,18,Non,MFA
+Perez Inc,Santé,1084,phishing,2023-12-13 09:31:29.210550,téléchargement,87572.01,16,Non,FormationPhishing
+"Reid, Ferguson and Sanchez",Énergie,241,exploitation de vulnérabilité,2023-12-14 13:49:50.252873,clé USB,326841.21,11,Non,PatchUrgent
+"Mcclain, Miller and Henderson",Finance,101,intrusion,2023-12-14 20:50:08.106997,RDP exposé,610241.09,30,Non,PatchUrgent
+Gray-Mayo,Industrie,497,exploitation de vulnérabilité,2023-12-14 23:40:15.021698,clé USB,113686.35,34,Non,MFA
+"Reid, Ferguson and Sanchez",Commerce,241,account takeover,2023-12-15 04:05:46.181328,clé USB,522687.97,40,Non,FormationPhishing
+"Adams, Zuniga and Wong",Santé,111,exploitation de vulnérabilité,2023-12-16 20:43:57.426597,site compromis,45395.46,14,Oui,FormationPhishing
+Wilkerson-Day,Commerce,1199,ddos,2023-12-17 07:11:29.196076,site compromis,687598.81,30,Oui,
+Dudley Group,Transport,1566,malware,2023-12-19 03:15:10.127675,téléchargement,901397.16,7,Oui,MFA
+"Flowers, Martin and Kelly",Technologie,115,ddos,2023-12-19 14:25:05.922634,email,365631.72,35,Oui,FormationPhishing
+Williams and Sons,Éducation,228,exploitation de vulnérabilité,2023-12-20 21:56:49.580570,site compromis,324691.84,42,Oui,PatchUrgent
+"Ross, Robinson and Bright",Transport,1380,exploitation de vulnérabilité,2023-12-22 17:01:04.609087,clé USB,445487.48,32,Oui,PatchUrgent
+Perez Inc,Énergie,1084,fuite de données,2023-12-24 12:48:57.282614,RDP exposé,65062.53,12,Oui,PatchUrgent
+Arnold Ltd,Industrie,1877,exploitation de vulnérabilité,2023-12-25 16:42:55.755895,téléchargement,144075.17,51,Oui,
+"Walter, Edwards and Rios",Finance,104,ddos,2023-12-26 04:37:42.074619,port ouvert,867837.11,61,Non,AuditSécurité
+James Group,Industrie,914,fuite de données,2023-12-26 07:22:08.758325,port ouvert,235026.08,37,Non,
+"Snyder, Campos and Callahan",Transport,1486,exploitation de vulnérabilité,2023-12-26 12:01:23.943747,RDP exposé,130772.01,9,Non,
+"Walter, Edwards and Rios",Technologie,104,exploitation de vulnérabilité,2023-12-26 15:02:12.424515,clé USB,109760.04,62,Non,MFA
+James Group,Technologie,914,fuite de données,2023-12-27 17:41:03.356930,port ouvert,123286.44,11,Oui,MFA
+Baker and Sons,Éducation,457,account takeover,2023-12-27 17:44:33.238670,site compromis,581272.93,17,Non,
+Galloway-Wyatt,Transport,1259,intrusion,2023-12-28 03:23:46.510709,site compromis,819141.54,24,Non,FormationPhishing
+Abbott-Munoz,Finance,259,intrusion,2023-12-28 04:51:17.057902,API vulnérable,287936.63,36,Non,MFA
+"Mcclain, Miller and Henderson",Transport,101,account takeover,2023-12-29 02:12:02.426518,téléchargement,72511.39,42,Oui,
+"Flowers, Martin and Kelly",Santé,115,exploitation de vulnérabilité,2023-12-29 20:03:13.672142,email,34737.19,30,Non,
+"Henderson, Ramirez and Lewis",Transport,335,fuite de données,2024-01-02 11:49:56.822124,email,241219.88,6,Oui,PatchUrgent
+"Flowers, Martin and Kelly",Industrie,115,exploitation de vulnérabilité,2024-01-02 16:36:58.405919,clé USB,311066.89,18,Non,FormationPhishing
+Williams and Sons,Santé,228,ddos,2024-01-03 06:38:21.207402,API vulnérable,113483.53,45,Non,FormationPhishing
+Arnold Ltd,Industrie,1877,ddos,2024-01-03 18:10:40.148321,site compromis,616961.08,29,Oui,FormationPhishing
+"Watts, Robinson and Nguyen",Éducation,526,account takeover,2024-01-04 04:01:30.783818,clé USB,130893.23,34,Non,AuditSécurité
+Williams and Sons,Industrie,228,malware,2024-01-08 02:00:41.217694,clé USB,88267.01,19,Oui,FormationPhishing
+"Mcclain, Miller and Henderson",Commerce,101,ddos,2024-01-09 05:52:31.901902,port ouvert,23660.95,39,Oui,
+"Gardner, Robinson and Lawrence",Transport,551,ransomware,2024-01-10 18:13:01.053988,email,569405.24,31,Oui,AuditSécurité
+Gray-Mayo,Transport,497,exploitation de vulnérabilité,2024-01-10 19:50:33.310258,port ouvert,209099.44,23,Oui,AuditSécurité
+James Group,Industrie,914,phishing,2024-01-11 18:04:55.296762,téléchargement,96196.96,13,Non,AuditSécurité
+"Mcclure, Ward and Lee",Énergie,1166,ransomware,2024-01-12 00:03:41.508372,clé USB,562547.89,30,Oui,MFA
+"Flowers, Martin and Kelly",Industrie,115,exploitation de vulnérabilité,2024-01-12 05:59:37.440751,téléchargement,771411.41,33,Oui,PatchUrgent
+Dudley Group,Finance,1566,phishing,2024-01-12 20:56:36.933439,port ouvert,1125484.9,37,Non,
+Gray-Mayo,Énergie,497,fuite de données,2024-01-13 15:02:07.551394,clé USB,187486.52,33,Non,MFA
+"Ross, Robinson and Bright",Finance,1380,malware,2024-01-15 13:34:22.100493,email,90840.46,11,Non,MFA
+"Adams, Zuniga and Wong",Finance,111,malware,2024-01-16 18:14:53.798767,RDP exposé,340495.93,16,Non,PatchUrgent
+Arnold Ltd,Santé,1877,ransomware,2024-01-17 08:24:22.839260,email,312225.91,36,Non,PatchUrgent
+"Walter, Edwards and Rios",Éducation,104,fuite de données,2024-01-18 22:17:35.589605,RDP exposé,406717.45,46,Oui,
+"Reid, Ferguson and Sanchez",Transport,241,fuite de données,2024-01-19 05:57:46.654489,email,232140.01,11,Non,PatchUrgent
+Davis and Sons,Énergie,1568,phishing,2024-01-19 06:16:52.743155,email,187822.7,49,Oui,AuditSécurité
+Williams and Sons,Industrie,228,account takeover,2024-01-19 20:34:51.774059,API vulnérable,77305.94,14,Non,AuditSécurité
+"Flowers, Martin and Kelly",Énergie,115,ddos,2024-01-20 17:38:42.845082,API vulnérable,21641.13,13,Non,PatchUrgent
+Williams and Sons,Commerce,228,exploitation de vulnérabilité,2024-01-21 01:44:02.581829,clé USB,659538.24,20,Oui,FormationPhishing
+"Gardner, Robinson and Lawrence",Éducation,551,ddos,2024-01-21 05:34:10.935990,API vulnérable,475026.05,12,Oui,AuditSécurité
+"Watts, Robinson and Nguyen",Finance,526,ddos,2024-01-23 08:39:43.064921,port ouvert,320376.59,55,Oui,PatchUrgent
+Garcia-James,Éducation,1558,fuite de données,2024-01-23 16:04:00.161608,clé USB,206500.95,41,Oui,MFA
+Wilkerson-Day,Transport,1199,fuite de données,2024-01-24 04:21:06.019479,API vulnérable,468254.92,13,Oui,FormationPhishing
+"Mcclure, Ward and Lee",Finance,1166,account takeover,2024-01-24 05:53:32.587421,email,1022483.86,21,Non,
+"Henderson, Ramirez and Lewis",Finance,335,ddos,2024-01-24 13:33:18.658135,clé USB,946344.28,20,Non,AuditSécurité
+Doyle Ltd,Finance,278,ddos,2024-01-24 19:02:49.542458,port ouvert,507083.35,33,Oui,MFA
+Williams and Sons,Énergie,228,account takeover,2024-01-26 05:25:43.474353,clé USB,113358.61,34,Oui,
+"Reid, Ferguson and Sanchez",Technologie,241,ddos,2024-01-27 05:17:24.791887,téléchargement,229178.89,32,Non,MFA
+Perez Inc,Énergie,1084,exploitation de vulnérabilité,2024-01-27 19:22:38.788727,API vulnérable,216002.07,14,Oui,FormationPhishing
+Dudley Group,Commerce,1566,malware,2024-01-27 19:39:57.636914,clé USB,251850.93,27,Non,MFA
+Galloway-Wyatt,Finance,1259,exploitation de vulnérabilité,2024-01-28 10:51:01.629211,API vulnérable,997252.53,13,Non,MFA
+"Hoffman, Baker and Richards",Éducation,1516,ransomware,2024-02-01 02:46:09.921836,API vulnérable,177206.99,26,Oui,MFA
+Blake and Sons,Commerce,507,phishing,2024-02-01 23:10:45.566360,RDP exposé,548477.2,19,Oui,FormationPhishing
+"Rodriguez, Figueroa and Sanchez",Finance,1359,exploitation de vulnérabilité,2024-02-02 12:51:18.573133,email,111570.26,17,Oui,
+"Guzman, Hoffman and Baldwin",Industrie,613,phishing,2024-02-06 23:25:28.385561,site compromis,1522171.67,5,Non,
+"Snyder, Campos and Callahan",Commerce,1486,intrusion,2024-02-07 09:59:48.513210,email,181182.65,37,Non,AuditSécurité
+Garcia-James,Éducation,1558,account takeover,2024-02-09 04:21:51.130692,RDP exposé,472225.26,12,Oui,AuditSécurité
+"Ross, Robinson and Bright",Commerce,1380,phishing,2024-02-09 09:16:36.665509,site compromis,711285.22,53,Non,
+"Mcclure, Ward and Lee",Éducation,1166,account takeover,2024-02-10 06:55:58.389303,RDP exposé,729212.24,2,Non,FormationPhishing
+Abbott-Munoz,Commerce,259,account takeover,2024-02-10 13:20:34.511257,port ouvert,186438.83,28,Oui,FormationPhishing
+"Mcclure, Ward and Lee",Éducation,1166,account takeover,2024-02-10 16:16:16.111345,email,477802.23,25,Oui,AuditSécurité
+"Adams, Zuniga and Wong",Industrie,111,account takeover,2024-02-11 03:18:12.177876,port ouvert,86760.55,28,Oui,MFA
+"Watts, Robinson and Nguyen",Santé,526,fuite de données,2024-02-11 17:07:21.893926,email,735395.96,19,Oui,AuditSécurité
+"Henderson, Ramirez and Lewis",Transport,335,malware,2024-02-13 19:30:05.827704,téléchargement,425769.71,41,Non,AuditSécurité
+"Watts, Robinson and Nguyen",Technologie,526,intrusion,2024-02-16 00:56:56.499096,API vulnérable,351683.3,0,Non,
+"Walter, Edwards and Rios",Énergie,104,account takeover,2024-02-16 04:51:13.283197,clé USB,368801.33,19,Oui,FormationPhishing
+"Hoffman, Baker and Richards",Santé,1516,intrusion,2024-02-16 12:27:58.967134,email,464902.09,41,Oui,PatchUrgent
+Garcia-James,Éducation,1558,ransomware,2024-02-17 19:21:30.961269,email,316892.96,5,Non,
+"Hoffman, Baker and Richards",Transport,1516,ddos,2024-02-18 04:59:35.722718,RDP exposé,524042.17,7,Oui,MFA
+"Watts, Robinson and Nguyen",Éducation,526,exploitation de vulnérabilité,2024-02-19 02:55:15.061383,site compromis,1038850.41,17,Oui,
+Gray-Mayo,Énergie,497,malware,2024-02-19 19:11:47.510777,site compromis,1032737.22,36,Non,PatchUrgent
+Wilkerson-Day,Éducation,1199,fuite de données,2024-02-21 14:30:04.079076,API vulnérable,440504.62,26,Oui,
+"Rodriguez, Figueroa and Sanchez",Éducation,1359,ddos,2024-02-21 15:37:16.695965,clé USB,260147.82,30,Non,FormationPhishing
+James Group,Commerce,914,malware,2024-02-21 20:16:15.275662,email,418469.08,38,Oui,PatchUrgent
+Williams and Sons,Industrie,228,account takeover,2024-02-22 00:32:09.171017,clé USB,554054.34,35,Non,PatchUrgent
+"Reid, Ferguson and Sanchez",Énergie,241,ddos,2024-02-22 08:19:18.338398,téléchargement,840964.7,44,Non,
+"Gardner, Robinson and Lawrence",Transport,551,account takeover,2024-02-23 06:42:09.497317,RDP exposé,354025.27,19,Oui,MFA
+Davis and Sons,Santé,1568,phishing,2024-02-24 08:21:24.114673,site compromis,65734.68,13,Oui,MFA
+Perez Inc,Santé,1084,fuite de données,2024-02-25 11:55:00.726672,RDP exposé,18193.89,23,Non,AuditSécurité
+Davis and Sons,Transport,1568,phishing,2024-02-26 02:15:38.157673,API vulnérable,353703.35,33,Oui,AuditSécurité
+"Rodriguez, Figueroa and Sanchez",Technologie,1359,account takeover,2024-02-27 15:05:11.062476,email,399611.56,31,Oui,
+Galloway-Wyatt,Santé,1259,malware,2024-02-27 17:21:52.737682,téléchargement,585438.08,10,Non,
+Doyle Ltd,Santé,278,exploitation de vulnérabilité,2024-02-29 09:58:43.485643,port ouvert,285432.72,21,Non,FormationPhishing
+"Walter, Edwards and Rios",Éducation,104,phishing,2024-03-01 02:33:03.126188,site compromis,89517.91,24,Non,
+Wilkerson-Day,Technologie,1199,intrusion,2024-03-01 18:02:03.667071,téléchargement,295268.16,17,Oui,AuditSécurité
+Dudley Group,Commerce,1566,ddos,2024-03-02 05:47:11.988150,clé USB,519025.55,30,Non,FormationPhishing
+"Henderson, Ramirez and Lewis",Énergie,335,ransomware,2024-03-03 21:09:46.040015,clé USB,187222.96,38,Oui,PatchUrgent
+"Walter, Edwards and Rios",Énergie,104,account takeover,2024-03-04 18:45:18.445583,RDP exposé,175268.15,32,Oui,PatchUrgent
+Garcia-James,Énergie,1558,ddos,2024-03-05 10:58:43.402001,téléchargement,299042.38,22,Oui,FormationPhishing
+"Reid, Ferguson and Sanchez",Finance,241,malware,2024-03-06 17:59:29.223160,RDP exposé,17339.22,26,Non,FormationPhishing
+"Walter, Edwards and Rios",Technologie,104,ransomware,2024-03-06 19:06:29.204270,port ouvert,41371.76,12,Non,PatchUrgent
+"Adams, Zuniga and Wong",Énergie,111,malware,2024-03-07 03:54:23.495092,RDP exposé,362083.18,22,Non,PatchUrgent
+Gray-Mayo,Finance,497,malware,2024-03-09 08:59:58.334524,email,300284.6,37,Oui,PatchUrgent
+Davis and Sons,Industrie,1568,fuite de données,2024-03-09 12:49:15.293722,port ouvert,484883.64,29,Oui,AuditSécurité
+"Walter, Edwards and Rios",Industrie,104,malware,2024-03-11 15:26:55.102689,RDP exposé,93278.56,41,Oui,MFA
+"Walter, Edwards and Rios",Finance,104,ddos,2024-03-12 06:11:54.398582,téléchargement,741525.62,36,Oui,
+"Henderson, Ramirez and Lewis",Santé,335,malware,2024-03-13 19:18:10.375398,email,76968.76,13,Non,MFA
+Arnold Ltd,Commerce,1877,fuite de données,2024-03-14 01:41:34.755664,clé USB,555479.98,29,Non,
+"Adams, Zuniga and Wong",Santé,111,ddos,2024-03-14 03:48:20.703816,email,662013.51,21,Non,PatchUrgent
+Baker and Sons,Énergie,457,phishing,2024-03-14 09:01:23.518676,site compromis,23091.72,1,Non,FormationPhishing
+Perez Inc,Santé,1084,ransomware,2024-03-14 12:38:56.807181,port ouvert,491964.09,19,Oui,AuditSécurité
+"Gardner, Robinson and Lawrence",Technologie,551,exploitation de vulnérabilité,2024-03-14 17:36:42.044575,clé USB,288220.78,19,Oui,
+Wilkerson-Day,Technologie,1199,ddos,2024-03-15 08:47:55.800396,API vulnérable,1480042.27,22,Oui,
+"Watts, Robinson and Nguyen",Technologie,526,intrusion,2024-03-17 08:54:18.217234,email,320981.14,1,Oui,FormationPhishing
+Abbott-Munoz,Énergie,259,malware,2024-03-17 15:16:33.573051,site compromis,753540.33,22,Oui,PatchUrgent
+Doyle Ltd,Transport,278,exploitation de vulnérabilité,2024-03-17 23:34:20.867844,clé USB,484491.54,43,Non,
+Arnold Ltd,Finance,1877,malware,2024-03-19 03:03:33.209647,clé USB,100683.82,27,Non,
+"Mcclure, Ward and Lee",Transport,1166,fuite de données,2024-03-19 05:16:30.931474,RDP exposé,240914.68,22,Non,MFA
+Davis and Sons,Santé,1568,malware,2024-03-19 11:59:03.541825,téléchargement,910252.12,17,Oui,
+"Guzman, Hoffman and Baldwin",Santé,613,malware,2024-03-19 20:39:23.605985,site compromis,196013.68,41,Non,AuditSécurité
+"Henderson, Ramirez and Lewis",Industrie,335,exploitation de vulnérabilité,2024-03-20 14:27:52.114161,site compromis,1151616.15,32,Non,MFA
+Galloway-Wyatt,Énergie,1259,malware,2024-03-21 07:16:41.174536,clé USB,1206693.62,25,Non,PatchUrgent
+"Gardner, Robinson and Lawrence",Énergie,551,phishing,2024-03-22 00:19:25.120999,clé USB,611030.08,46,Oui,FormationPhishing
+Blake and Sons,Finance,507,fuite de données,2024-03-22 00:23:54.583588,site compromis,576670.81,28,Non,FormationPhishing
+"Reid, Ferguson and Sanchez",Transport,241,fuite de données,2024-03-22 13:38:02.152798,email,1463466.21,17,Non,AuditSécurité
+"Mcclain, Miller and Henderson",Éducation,101,malware,2024-03-24 22:56:21.419762,email,506758.99,11,Non,PatchUrgent
+"Mcclain, Miller and Henderson",Industrie,101,phishing,2024-03-25 14:40:39.789154,RDP exposé,920636.64,6,Non,
+"Mcclure, Ward and Lee",Industrie,1166,malware,2024-03-25 19:00:19.106057,site compromis,288850.5,7,Non,PatchUrgent
+Williams and Sons,Santé,228,ransomware,2024-03-27 10:15:35.889048,clé USB,1401707.79,23,Oui,AuditSécurité
+"Gardner, Robinson and Lawrence",Énergie,551,ddos,2024-03-29 22:06:13.375874,port ouvert,157651.85,32,Non,PatchUrgent
+"Guzman, Hoffman and Baldwin",Finance,613,malware,2024-03-30 23:55:49.532557,email,429986.07,15,Non,
+Williams and Sons,Industrie,228,account takeover,2024-04-01 17:36:51.256104,email,630236.74,17,Oui,
+Baker and Sons,Transport,457,account takeover,2024-04-01 23:23:58.885203,téléchargement,714577.82,29,Non,FormationPhishing
+Gray-Mayo,Finance,497,phishing,2024-04-02 01:59:50.598861,API vulnérable,88255.2,0,Oui,AuditSécurité
+Williams and Sons,Énergie,228,ddos,2024-04-02 17:54:03.401186,clé USB,346536.24,15,Non,MFA
+"Watts, Robinson and Nguyen",Technologie,526,exploitation de vulnérabilité,2024-04-02 23:02:58.573132,port ouvert,17248.11,20,Non,FormationPhishing
+Abbott-Munoz,Énergie,259,account takeover,2024-04-03 22:20:50.598819,RDP exposé,559684.98,18,Non,MFA
+"Adams, Zuniga and Wong",Commerce,111,ransomware,2024-04-04 18:13:48.251571,téléchargement,229815.18,16,Non,FormationPhishing
+Blake and Sons,Éducation,507,ddos,2024-04-05 03:13:38.961662,RDP exposé,312093.41,46,Oui,MFA
+Blake and Sons,Finance,507,malware,2024-04-05 09:36:34.329302,clé USB,669141.9,17,Non,MFA
+Doyle Ltd,Transport,278,fuite de données,2024-04-05 18:07:27.782800,site compromis,380697.8,42,Oui,MFA
+James Group,Industrie,914,malware,2024-04-07 06:14:41.954434,port ouvert,79381.97,28,Non,AuditSécurité
+"Gardner, Robinson and Lawrence",Commerce,551,phishing,2024-04-08 17:12:29.349027,téléchargement,360678.61,29,Non,MFA
+Baker and Sons,Technologie,457,phishing,2024-04-11 03:08:41.243408,clé USB,85589.49,30,Non,
+Gray-Mayo,Énergie,497,intrusion,2024-04-12 05:27:17.576874,port ouvert,214090.58,23,Non,AuditSécurité
+James Group,Commerce,914,ddos,2024-04-14 07:12:18.920129,téléchargement,346778.97,7,Oui,MFA
+"Henderson, Ramirez and Lewis",Éducation,335,intrusion,2024-04-15 01:53:45.215209,téléchargement,280286.99,24,Oui,AuditSécurité
+"Flowers, Martin and Kelly",Transport,115,exploitation de vulnérabilité,2024-04-18 04:37:08.614480,téléchargement,635648.65,7,Oui,MFA
+Doyle Ltd,Commerce,278,account takeover,2024-04-21 14:25:04.090345,email,370877.99,46,Oui,MFA
+Morales-Jones,Santé,1282,malware,2024-04-21 17:37:54.903936,site compromis,460561.21,31,Oui,AuditSécurité
+Arnold Ltd,Éducation,1877,account takeover,2024-04-22 01:10:56.624562,site compromis,687559.87,22,Oui,
+Blair PLC,Commerce,1435,exploitation de vulnérabilité,2024-04-23 05:11:47.440774,site compromis,516390.93,51,Non,PatchUrgent
+Arnold Ltd,Éducation,1877,account takeover,2024-04-23 17:25:34.841704,clé USB,715499.76,35,Non,FormationPhishing
+"Snyder, Campos and Callahan",Éducation,1486,intrusion,2024-04-23 17:51:05.974722,téléchargement,30319.39,36,Oui,MFA
+"Snyder, Campos and Callahan",Commerce,1486,malware,2024-04-23 21:10:28.358238,email,234901.04,19,Oui,MFA
+Abbott-Munoz,Transport,259,malware,2024-04-25 08:52:09.294782,clé USB,450458.59,12,Oui,PatchUrgent
+Wilkerson-Day,Éducation,1199,ddos,2024-04-27 00:53:23.630156,email,1141012.25,40,Oui,MFA
+"Reid, Ferguson and Sanchez",Commerce,241,exploitation de vulnérabilité,2024-04-29 20:22:52.692629,clé USB,325246.43,28,Oui,PatchUrgent
+Arnold Ltd,Technologie,1877,exploitation de vulnérabilité,2024-05-02 04:18:28.658925,site compromis,125709.0,18,Oui,AuditSécurité
+Arnold Ltd,Finance,1877,phishing,2024-05-03 21:19:13.188616,clé USB,106701.33,20,Oui,PatchUrgent
+"Watts, Robinson and Nguyen",Finance,526,ddos,2024-05-04 09:11:22.737233,port ouvert,266770.45,22,Non,
+"Rodriguez, Figueroa and Sanchez",Commerce,1359,ddos,2024-05-05 06:50:14.383532,site compromis,43803.11,18,Oui,
+"Reid, Ferguson and Sanchez",Industrie,241,intrusion,2024-05-07 00:10:20.556162,clé USB,155132.15,41,Oui,MFA
+Wilkerson-Day,Finance,1199,intrusion,2024-05-12 14:18:47.364660,API vulnérable,119357.14,28,Oui,MFA
+"Henderson, Ramirez and Lewis",Transport,335,fuite de données,2024-05-13 18:59:08.717908,clé USB,190743.43,20,Non,PatchUrgent
+Perez Inc,Énergie,1084,ransomware,2024-05-15 20:26:48.096394,API vulnérable,290754.33,29,Oui,PatchUrgent
+"Mcclure, Ward and Lee",Industrie,1166,exploitation de vulnérabilité,2024-05-15 20:34:36.626461,API vulnérable,61361.51,36,Oui,AuditSécurité
+Blake and Sons,Éducation,507,ddos,2024-05-17 08:12:21.703651,port ouvert,3945.92,6,Non,MFA
+"Walter, Edwards and Rios",Industrie,104,fuite de données,2024-05-17 09:05:25.410722,email,321900.36,17,Non,FormationPhishing
+Arnold Ltd,Finance,1877,account takeover,2024-05-18 04:56:24.626995,téléchargement,370844.56,21,Oui,MFA
+Garcia-James,Transport,1558,phishing,2024-05-18 16:17:09.540887,site compromis,58644.23,40,Oui,MFA
+Blair PLC,Technologie,1435,account takeover,2024-05-20 17:13:09.056996,port ouvert,241928.72,25,Non,AuditSécurité
+Blake and Sons,Éducation,507,phishing,2024-05-21 21:45:17.223600,site compromis,552360.19,33,Oui,FormationPhishing
+"Reid, Ferguson and Sanchez",Transport,241,ransomware,2024-05-21 23:44:30.601061,site compromis,237902.28,15,Non,
+"Snyder, Campos and Callahan",Santé,1486,phishing,2024-05-22 13:00:28.390157,site compromis,335789.42,8,Non,
+"Watts, Robinson and Nguyen",Santé,526,intrusion,2024-05-23 11:56:32.407174,clé USB,1132887.26,29,Non,FormationPhishing
+"Mcclain, Miller and Henderson",Transport,101,ddos,2024-05-24 04:51:45.808986,site compromis,217041.73,14,Oui,
+Doyle Ltd,Éducation,278,malware,2024-05-24 09:38:11.603575,API vulnérable,119933.6,32,Oui,MFA
+"Reid, Ferguson and Sanchez",Technologie,241,ddos,2024-05-24 10:09:22.391017,email,641719.1,14,Non,AuditSécurité
+"Mcclain, Miller and Henderson",Éducation,101,phishing,2024-05-24 18:35:10.374310,site compromis,186412.61,21,Non,AuditSécurité
+"Gardner, Robinson and Lawrence",Technologie,551,intrusion,2024-05-25 04:16:27.837744,téléchargement,810516.85,30,Oui,MFA
+Williams and Sons,Commerce,228,account takeover,2024-05-27 06:06:32.118855,port ouvert,159222.11,21,Oui,AuditSécurité
+"Reid, Ferguson and Sanchez",Santé,241,ddos,2024-05-30 10:36:32.580753,RDP exposé,336069.51,0,Non,MFA
+"Hoffman, Baker and Richards",Commerce,1516,ddos,2024-06-03 00:23:30.895545,clé USB,447015.09,27,Oui,AuditSécurité
+"Walter, Edwards and Rios",Industrie,104,fuite de données,2024-06-03 21:49:08.000104,clé USB,190645.62,19,Oui,MFA
+Dudley Group,Transport,1566,ransomware,2024-06-04 12:41:18.606897,port ouvert,294814.07,35,Non,PatchUrgent
+Wilkerson-Day,Santé,1199,ddos,2024-06-05 00:44:52.762318,RDP exposé,282461.73,32,Non,MFA
+Dudley Group,Éducation,1566,ddos,2024-06-05 16:36:30.539320,API vulnérable,306415.56,27,Non,FormationPhishing
+"Mcclain, Miller and Henderson",Santé,101,malware,2024-06-05 22:11:59.704051,site compromis,526161.44,5,Oui,
+Dudley Group,Transport,1566,fuite de données,2024-06-06 08:21:06.823839,email,259712.12,42,Oui,PatchUrgent
+"Gardner, Robinson and Lawrence",Énergie,551,ransomware,2024-06-06 14:49:50.406428,clé USB,344346.81,27,Non,FormationPhishing
+Dudley Group,Commerce,1566,ransomware,2024-06-06 19:27:47.500397,API vulnérable,235783.12,18,Non,FormationPhishing
+Morales-Jones,Énergie,1282,intrusion,2024-06-06 23:45:31.886303,site compromis,459673.26,42,Oui,
+Williams and Sons,Finance,228,exploitation de vulnérabilité,2024-06-07 12:44:52.873874,téléchargement,1063771.59,29,Oui,PatchUrgent
+Morales-Jones,Énergie,1282,fuite de données,2024-06-08 02:39:45.157954,site compromis,1067981.9,26,Oui,
+"Walter, Edwards and Rios",Santé,104,ransomware,2024-06-09 13:05:57.009268,port ouvert,67981.72,33,Oui,FormationPhishing
+Abbott-Munoz,Énergie,259,phishing,2024-06-09 15:12:28.550030,port ouvert,19516.92,37,Non,FormationPhishing
+Doyle Ltd,Énergie,278,phishing,2024-06-10 06:18:32.110078,téléchargement,348137.54,6,Non,AuditSécurité
+James Group,Énergie,914,phishing,2024-06-11 01:35:49.818106,API vulnérable,152171.85,7,Oui,
+Perez Inc,Commerce,1084,fuite de données,2024-06-11 23:17:01.698951,port ouvert,56933.46,11,Oui,MFA
+Davis and Sons,Santé,1568,account takeover,2024-06-12 22:26:38.988895,RDP exposé,567057.09,39,Non,
+Davis and Sons,Énergie,1568,phishing,2024-06-14 21:40:19.877162,API vulnérable,512059.91,31,Oui,AuditSécurité
+"Walter, Edwards and Rios",Finance,104,ddos,2024-06-17 00:12:56.665582,port ouvert,573646.8,31,Oui,PatchUrgent
+Davis and Sons,Finance,1568,ransomware,2024-06-17 16:11:08.135063,port ouvert,420007.23,17,Oui,
+"Watts, Robinson and Nguyen",Énergie,526,malware,2024-06-19 00:25:20.458443,téléchargement,204246.8,17,Non,MFA
+Dudley Group,Technologie,1566,malware,2024-06-20 05:13:19.845004,email,892136.41,30,Oui,MFA
+"Guzman, Hoffman and Baldwin",Énergie,613,phishing,2024-06-20 15:59:24.461243,téléchargement,634802.96,40,Oui,MFA
+"Mcclure, Ward and Lee",Éducation,1166,fuite de données,2024-06-21 04:53:37.976091,API vulnérable,94682.38,34,Oui,MFA
+"Hoffman, Baker and Richards",Finance,1516,account takeover,2024-06-21 08:50:13.770095,port ouvert,76411.31,15,Non,FormationPhishing
+"Snyder, Campos and Callahan",Éducation,1486,ddos,2024-06-26 20:35:01.663554,site compromis,183623.36,17,Oui,AuditSécurité
+"Flowers, Martin and Kelly",Finance,115,ransomware,2024-06-26 21:01:26.144421,RDP exposé,162783.29,31,Oui,PatchUrgent
+"Reid, Ferguson and Sanchez",Technologie,241,account takeover,2024-06-26 23:25:53.606747,email,522742.09,49,Oui,PatchUrgent
+"Mcclure, Ward and Lee",Technologie,1166,exploitation de vulnérabilité,2024-06-27 08:49:19.403340,RDP exposé,779297.79,14,Non,MFA
+"Walter, Edwards and Rios",Finance,104,malware,2024-06-27 09:37:18.319906,téléchargement,806548.85,25,Oui,FormationPhishing
+"Mcclain, Miller and Henderson",Technologie,101,fuite de données,2024-06-28 03:08:34.127691,RDP exposé,1006855.63,29,Oui,PatchUrgent
+"Mcclain, Miller and Henderson",Industrie,101,exploitation de vulnérabilité,2024-06-29 16:47:34.318137,port ouvert,295549.53,24,Non,PatchUrgent
+Blair PLC,Transport,1435,account takeover,2024-06-29 22:05:45.994211,port ouvert,378507.74,15,Non,
+"Flowers, Martin and Kelly",Éducation,115,ransomware,2024-06-30 20:49:33.686577,email,322404.6,0,Oui,AuditSécurité
+Doyle Ltd,Transport,278,fuite de données,2024-07-01 11:54:24.674308,API vulnérable,519296.23,4,Oui,AuditSécurité
+Dudley Group,Santé,1566,ddos,2024-07-03 22:00:43.851302,RDP exposé,433214.99,23,Non,FormationPhishing
+Davis and Sons,Énergie,1568,account takeover,2024-07-05 23:58:25.072396,site compromis,252866.15,16,Oui,MFA
+Morales-Jones,Transport,1282,ransomware,2024-07-06 23:01:19.011425,site compromis,132845.63,33,Oui,PatchUrgent
+"Hoffman, Baker and Richards",Technologie,1516,malware,2024-07-07 15:45:58.285641,port ouvert,144386.97,13,Non,PatchUrgent
+Galloway-Wyatt,Technologie,1259,fuite de données,2024-07-07 20:41:12.121642,clé USB,306598.31,14,Non,AuditSécurité
+"Gardner, Robinson and Lawrence",Commerce,551,phishing,2024-07-08 21:34:36.009606,email,191626.65,20,Non,PatchUrgent
+Garcia-James,Industrie,1558,phishing,2024-07-08 23:30:03.382330,port ouvert,494786.23,4,Oui,FormationPhishing
+"Rodriguez, Figueroa and Sanchez",Éducation,1359,ransomware,2024-07-09 06:55:09.594644,port ouvert,18192.95,22,Non,AuditSécurité
+"Rodriguez, Figueroa and Sanchez",Industrie,1359,phishing,2024-07-09 23:31:51.080537,téléchargement,950379.9,34,Non,PatchUrgent
+Davis and Sons,Santé,1568,fuite de données,2024-07-10 04:07:04.738416,téléchargement,421931.62,15,Non,MFA
+"Snyder, Campos and Callahan",Finance,1486,ddos,2024-07-12 03:43:02.272839,téléchargement,22751.26,41,Oui,AuditSécurité
+Arnold Ltd,Commerce,1877,exploitation de vulnérabilité,2024-07-12 08:21:31.664904,port ouvert,23216.81,26,Oui,
+James Group,Énergie,914,exploitation de vulnérabilité,2024-07-12 16:53:08.083139,API vulnérable,591951.41,33,Non,AuditSécurité
+Galloway-Wyatt,Transport,1259,malware,2024-07-13 19:50:57.539001,email,1066257.5,50,Non,PatchUrgent
+Dudley Group,Transport,1566,fuite de données,2024-07-15 03:02:11.949406,téléchargement,78745.89,7,Non,FormationPhishing
+"Ross, Robinson and Bright",Éducation,1380,ddos,2024-07-15 22:08:48.878409,API vulnérable,31708.85,18,Oui,FormationPhishing
+"Mcclure, Ward and Lee",Commerce,1166,exploitation de vulnérabilité,2024-07-16 00:15:22.922163,téléchargement,352852.33,21,Oui,PatchUrgent
+Dudley Group,Technologie,1566,malware,2024-07-16 03:32:33.955151,port ouvert,295696.17,0,Non,AuditSécurité
+Gray-Mayo,Santé,497,exploitation de vulnérabilité,2024-07-16 04:10:48.502704,clé USB,858697.03,26,Non,PatchUrgent
+Dudley Group,Éducation,1566,intrusion,2024-07-16 09:55:45.060694,site compromis,989606.41,33,Oui,AuditSécurité
+"Walter, Edwards and Rios",Commerce,104,exploitation de vulnérabilité,2024-07-16 13:36:02.314378,clé USB,230206.68,19,Non,MFA
+Morales-Jones,Santé,1282,phishing,2024-07-16 18:34:04.941388,port ouvert,39182.47,48,Non,PatchUrgent
+"Ross, Robinson and Bright",Commerce,1380,intrusion,2024-07-17 08:10:20.880735,RDP exposé,728028.4,26,Oui,AuditSécurité
+Arnold Ltd,Éducation,1877,intrusion,2024-07-17 22:45:56.647131,clé USB,365440.12,34,Non,FormationPhishing
+"Mcclure, Ward and Lee",Transport,1166,account takeover,2024-07-18 19:18:49.807814,site compromis,380818.01,16,Oui,FormationPhishing
+James Group,Santé,914,exploitation de vulnérabilité,2024-07-19 05:06:49.727557,API vulnérable,323455.49,30,Oui,AuditSécurité
+"Hoffman, Baker and Richards",Éducation,1516,exploitation de vulnérabilité,2024-07-23 07:14:49.638796,port ouvert,1036286.19,29,Non,AuditSécurité
+Davis and Sons,Industrie,1568,ransomware,2024-07-25 08:33:48.304890,téléchargement,733337.34,38,Non,AuditSécurité
+Garcia-James,Santé,1558,ransomware,2024-07-26 00:26:00.745681,API vulnérable,1143092.95,26,Oui,PatchUrgent
+Blake and Sons,Commerce,507,account takeover,2024-07-26 01:57:52.787153,téléchargement,1422875.99,25,Oui,MFA
+Garcia-James,Transport,1558,ddos,2024-07-28 18:01:05.235101,clé USB,233495.36,30,Non,PatchUrgent
+Gray-Mayo,Énergie,497,account takeover,2024-07-29 07:22:48.924003,port ouvert,1006139.13,39,Non,MFA
+"Hoffman, Baker and Richards",Éducation,1516,fuite de données,2024-07-30 10:21:09.209913,RDP exposé,1486679.9,24,Oui,PatchUrgent
+Garcia-James,Technologie,1558,malware,2024-08-03 01:05:52.507642,port ouvert,193891.88,16,Non,MFA
+James Group,Industrie,914,account takeover,2024-08-03 13:26:27.270261,port ouvert,701569.84,4,Non,
+Dudley Group,Industrie,1566,exploitation de vulnérabilité,2024-08-03 19:19:42.228984,RDP exposé,179921.02,6,Oui,
+"Watts, Robinson and Nguyen",Finance,526,account takeover,2024-08-05 06:20:33.125974,API vulnérable,86757.95,12,Oui,PatchUrgent
+"Ross, Robinson and Bright",Industrie,1380,phishing,2024-08-06 04:02:38.953386,clé USB,119480.87,8,Oui,PatchUrgent
+"Gardner, Robinson and Lawrence",Industrie,551,fuite de données,2024-08-06 23:06:37.969061,API vulnérable,611585.29,24,Oui,PatchUrgent
+Garcia-James,Santé,1558,exploitation de vulnérabilité,2024-08-07 05:35:04.901826,API vulnérable,127037.84,2,Oui,
+Doyle Ltd,Industrie,278,fuite de données,2024-08-08 18:04:34.573151,site compromis,779055.44,33,Oui,AuditSécurité
+"Walter, Edwards and Rios",Industrie,104,ransomware,2024-08-08 22:04:06.887489,clé USB,58805.65,26,Non,FormationPhishing
+"Rodriguez, Figueroa and Sanchez",Éducation,1359,ddos,2024-08-10 03:26:59.296999,email,5911.59,26,Oui,MFA
+"Henderson, Ramirez and Lewis",Santé,335,fuite de données,2024-08-10 15:15:11.656466,téléchargement,614702.79,0,Oui,PatchUrgent
+"Mcclain, Miller and Henderson",Technologie,101,intrusion,2024-08-10 17:36:24.309410,RDP exposé,589180.54,17,Non,AuditSécurité
+Morales-Jones,Transport,1282,fuite de données,2024-08-11 17:33:12.710060,RDP exposé,686516.23,39,Oui,
+"Walter, Edwards and Rios",Industrie,104,malware,2024-08-12 15:47:38.330863,API vulnérable,362041.98,19,Non,
+"Mcclain, Miller and Henderson",Finance,101,ddos,2024-08-12 20:39:22.205384,clé USB,646478.41,22,Oui,FormationPhishing
+"Watts, Robinson and Nguyen",Éducation,526,phishing,2024-08-14 01:43:08.469512,clé USB,158659.66,22,Oui,FormationPhishing
+Baker and Sons,Technologie,457,fuite de données,2024-08-14 16:37:54.825990,téléchargement,299651.12,17,Oui,FormationPhishing
+Perez Inc,Industrie,1084,ddos,2024-08-17 02:39:51.023361,API vulnérable,539455.78,26,Oui,PatchUrgent
+Williams and Sons,Énergie,228,ddos,2024-08-21 03:07:32.201406,site compromis,789720.06,18,Non,FormationPhishing
+Davis and Sons,Commerce,1568,intrusion,2024-08-22 04:27:41.656527,téléchargement,237716.82,4,Non,FormationPhishing
+Galloway-Wyatt,Technologie,1259,ddos,2024-08-24 12:15:57.723686,téléchargement,506386.95,11,Oui,AuditSécurité
+"Rodriguez, Figueroa and Sanchez",Technologie,1359,phishing,2024-08-24 13:03:27.391942,téléchargement,167295.79,14,Oui,MFA
+"Rodriguez, Figueroa and Sanchez",Énergie,1359,account takeover,2024-08-25 03:38:49.303927,port ouvert,263676.57,26,Oui,AuditSécurité
+"Flowers, Martin and Kelly",Technologie,115,exploitation de vulnérabilité,2024-08-26 01:00:13.435791,site compromis,74362.45,25,Non,PatchUrgent
+"Snyder, Campos and Callahan",Industrie,1486,malware,2024-08-29 16:05:10.913779,port ouvert,1065143.76,20,Oui,
+Wilkerson-Day,Finance,1199,intrusion,2024-08-31 01:43:13.290071,clé USB,345199.54,40,Oui,FormationPhishing
+"Snyder, Campos and Callahan",Commerce,1486,phishing,2024-08-31 16:58:25.870705,port ouvert,540976.49,20,Non,
+Arnold Ltd,Énergie,1877,phishing,2024-09-01 08:20:24.472709,port ouvert,88268.61,32,Non,AuditSécurité
+Galloway-Wyatt,Éducation,1259,account takeover,2024-09-02 15:11:56.132929,email,1123318.5,11,Non,AuditSécurité
+Blair PLC,Finance,1435,malware,2024-09-02 17:40:07.243075,email,1019982.26,32,Oui,MFA
+"Hoffman, Baker and Richards",Commerce,1516,fuite de données,2024-09-02 18:57:56.435595,site compromis,102807.77,45,Non,AuditSécurité
+Williams and Sons,Finance,228,fuite de données,2024-09-04 05:35:13.733926,email,261602.4,30,Oui,FormationPhishing
+Blair PLC,Santé,1435,ddos,2024-09-05 09:09:07.898497,port ouvert,138196.15,45,Oui,MFA
+Williams and Sons,Industrie,228,ransomware,2024-09-06 20:29:38.542915,téléchargement,1034952.25,28,Oui,
+Wilkerson-Day,Santé,1199,phishing,2024-09-06 23:20:35.667508,port ouvert,42365.38,33,Non,PatchUrgent
+Doyle Ltd,Technologie,278,exploitation de vulnérabilité,2024-09-08 05:00:16.597553,RDP exposé,335446.25,29,Oui,
+Gray-Mayo,Éducation,497,ransomware,2024-09-09 09:27:49.156790,clé USB,496778.36,0,Non,
+"Flowers, Martin and Kelly",Commerce,115,account takeover,2024-09-09 14:11:32.582659,téléchargement,1150595.34,23,Oui,
+Doyle Ltd,Technologie,278,fuite de données,2024-09-11 21:40:10.050032,clé USB,214497.51,17,Non,AuditSécurité
+"Mcclain, Miller and Henderson",Industrie,101,fuite de données,2024-09-13 07:06:36.218895,API vulnérable,646232.31,42,Oui,AuditSécurité
+"Flowers, Martin and Kelly",Industrie,115,ddos,2024-09-13 08:17:39.708635,API vulnérable,336371.51,26,Oui,
+Garcia-James,Technologie,1558,intrusion,2024-09-13 10:05:51.313257,site compromis,161449.15,28,Non,MFA
+Williams and Sons,Santé,228,ransomware,2024-09-14 03:28:50.233506,clé USB,202556.73,21,Oui,
+"Guzman, Hoffman and Baldwin",Transport,613,ransomware,2024-09-14 07:46:44.843300,port ouvert,1228103.56,10,Oui,MFA
+"Guzman, Hoffman and Baldwin",Finance,613,account takeover,2024-09-14 09:52:15.571081,email,125321.28,18,Non,FormationPhishing
+Abbott-Munoz,Transport,259,ransomware,2024-09-15 19:33:03.536770,email,440152.2,34,Oui,PatchUrgent
+Gray-Mayo,Énergie,497,ransomware,2024-09-16 03:28:17.515449,site compromis,1261078.1,36,Oui,
+Arnold Ltd,Finance,1877,ddos,2024-09-16 19:35:26.193084,port ouvert,742947.78,29,Oui,
+"Snyder, Campos and Callahan",Technologie,1486,ddos,2024-09-17 05:00:37.788177,RDP exposé,989786.07,17,Oui,
+"Flowers, Martin and Kelly",Éducation,115,malware,2024-09-17 13:47:07.306231,site compromis,317807.28,33,Non,AuditSécurité
+"Mcclure, Ward and Lee",Finance,1166,ransomware,2024-09-18 00:20:24.083717,clé USB,306052.19,4,Oui,PatchUrgent
+"Mcclain, Miller and Henderson",Finance,101,malware,2024-09-18 02:44:35.551605,RDP exposé,739340.42,23,Non,MFA
+Blair PLC,Commerce,1435,intrusion,2024-09-19 00:40:58.638372,RDP exposé,718769.97,17,Non,MFA
+"Snyder, Campos and Callahan",Industrie,1486,exploitation de vulnérabilité,2024-09-20 19:56:20.807430,clé USB,307910.91,24,Oui,PatchUrgent
+Doyle Ltd,Technologie,278,intrusion,2024-09-20 21:07:12.740595,port ouvert,290933.13,26,Oui,PatchUrgent
+"Walter, Edwards and Rios",Commerce,104,ddos,2024-09-20 22:02:13.018213,site compromis,452234.75,32,Non,
+"Rodriguez, Figueroa and Sanchez",Transport,1359,intrusion,2024-09-21 19:04:48.095124,email,361359.28,14,Oui,
+Williams and Sons,Santé,228,ddos,2024-09-22 02:26:29.267241,téléchargement,300810.0,20,Non,
+Dudley Group,Transport,1566,fuite de données,2024-09-22 17:56:52.014976,API vulnérable,827878.06,13,Non,AuditSécurité
+Williams and Sons,Santé,228,malware,2024-09-23 13:14:17.739567,RDP exposé,473548.69,21,Non,
+"Mcclure, Ward and Lee",Transport,1166,exploitation de vulnérabilité,2024-09-23 17:20:17.340182,port ouvert,488278.48,27,Oui,AuditSécurité
+Dudley Group,Finance,1566,fuite de données,2024-09-25 09:37:09.373921,téléchargement,595515.97,13,Oui,FormationPhishing
+Doyle Ltd,Énergie,278,intrusion,2024-09-27 20:43:14.325026,port ouvert,469378.0,12,Oui,PatchUrgent
+Wilkerson-Day,Commerce,1199,ransomware,2024-09-27 22:03:31.789172,port ouvert,244203.44,41,Non,AuditSécurité
+"Guzman, Hoffman and Baldwin",Technologie,613,intrusion,2024-09-27 23:09:42.494958,API vulnérable,456552.9,20,Oui,MFA
+Dudley Group,Technologie,1566,exploitation de vulnérabilité,2024-09-28 08:54:03.316515,clé USB,294790.81,36,Non,AuditSécurité
+"Flowers, Martin and Kelly",Commerce,115,intrusion,2024-09-29 02:47:43.949610,site compromis,195237.23,29,Oui,MFA
+James Group,Énergie,914,exploitation de vulnérabilité,2024-09-29 18:33:30.736186,téléchargement,554725.91,18,Oui,FormationPhishing
+"Flowers, Martin and Kelly",Transport,115,fuite de données,2024-10-02 18:51:14.597026,site compromis,249666.15,33,Oui,
+Garcia-James,Technologie,1558,fuite de données,2024-10-03 12:10:26.907332,site compromis,932824.38,21,Oui,MFA
+Blake and Sons,Éducation,507,ransomware,2024-10-03 16:39:02.965856,email,82923.31,21,Non,FormationPhishing
+Blair PLC,Éducation,1435,ddos,2024-10-04 01:06:44.969499,clé USB,858557.53,22,Non,MFA
+Galloway-Wyatt,Énergie,1259,phishing,2024-10-04 22:30:21.616038,email,189316.35,15,Non,FormationPhishing
+"Hoffman, Baker and Richards",Santé,1516,fuite de données,2024-10-05 04:31:59.843442,site compromis,833721.05,22,Non,FormationPhishing
+"Rodriguez, Figueroa and Sanchez",Industrie,1359,account takeover,2024-10-06 04:42:06.529378,téléchargement,597132.34,8,Oui,FormationPhishing
+Arnold Ltd,Transport,1877,phishing,2024-10-07 06:09:02.067911,site compromis,982762.01,23,Non,
+Galloway-Wyatt,Éducation,1259,fuite de données,2024-10-07 09:19:52.204637,téléchargement,1142293.15,42,Oui,FormationPhishing
+Garcia-James,Industrie,1558,phishing,2024-10-09 07:45:34.002613,RDP exposé,77921.68,35,Non,
+"Mcclain, Miller and Henderson",Commerce,101,fuite de données,2024-10-09 16:08:01.228879,port ouvert,118466.52,15,Non,FormationPhishing
+Abbott-Munoz,Santé,259,phishing,2024-10-09 16:57:03.416291,téléchargement,344887.43,48,Non,
+"Rodriguez, Figueroa and Sanchez",Éducation,1359,ddos,2024-10-10 07:26:06.068514,API vulnérable,861947.86,17,Oui,AuditSécurité
+"Mcclure, Ward and Lee",Industrie,1166,intrusion,2024-10-10 10:16:13.630218,API vulnérable,28656.2,19,Non,AuditSécurité
+Abbott-Munoz,Commerce,259,malware,2024-10-12 01:50:51.162291,téléchargement,252687.75,7,Oui,
+"Gardner, Robinson and Lawrence",Énergie,551,exploitation de vulnérabilité,2024-10-12 13:05:03.298843,clé USB,103819.52,27,Oui,FormationPhishing
+James Group,Technologie,914,malware,2024-10-12 19:46:53.606312,clé USB,176539.71,29,Non,AuditSécurité
+Morales-Jones,Santé,1282,exploitation de vulnérabilité,2024-10-12 22:25:55.134965,téléchargement,41530.53,25,Non,
+Dudley Group,Santé,1566,exploitation de vulnérabilité,2024-10-12 23:10:31.490391,téléchargement,122982.09,14,Non,AuditSécurité
+Galloway-Wyatt,Transport,1259,exploitation de vulnérabilité,2024-10-13 15:09:22.049435,API vulnérable,789648.59,24,Oui,AuditSécurité
+"Reid, Ferguson and Sanchez",Industrie,241,fuite de données,2024-10-18 05:52:31.165216,clé USB,79837.3,19,Non,MFA
+"Gardner, Robinson and Lawrence",Énergie,551,ransomware,2024-10-18 18:49:32.515475,API vulnérable,737586.23,25,Non,FormationPhishing
+Morales-Jones,Commerce,1282,ransomware,2024-10-18 21:15:32.074124,site compromis,37472.66,16,Oui,PatchUrgent
+"Guzman, Hoffman and Baldwin",Commerce,613,ddos,2024-10-19 10:52:19.316944,port ouvert,797523.31,5,Oui,AuditSécurité
+"Ross, Robinson and Bright",Transport,1380,fuite de données,2024-10-19 11:13:14.988172,téléchargement,615167.91,13,Non,AuditSécurité
+Wilkerson-Day,Industrie,1199,ransomware,2024-10-21 10:05:02.862212,téléchargement,256635.21,6,Non,PatchUrgent
+Blair PLC,Transport,1435,intrusion,2024-10-23 02:46:42.272178,site compromis,1285471.36,21,Non,PatchUrgent
+"Henderson, Ramirez and Lewis",Éducation,335,malware,2024-10-23 07:19:40.634337,email,178175.37,6,Oui,
+"Walter, Edwards and Rios",Commerce,104,account takeover,2024-10-25 18:27:26.097749,clé USB,384958.42,0,Oui,MFA
+Davis and Sons,Transport,1568,exploitation de vulnérabilité,2024-10-27 04:52:33.630535,RDP exposé,850870.64,42,Non,AuditSécurité
+"Gardner, Robinson and Lawrence",Commerce,551,phishing,2024-10-27 10:39:56.358260,téléchargement,555807.44,10,Non,
+"Ross, Robinson and Bright",Technologie,1380,intrusion,2024-10-29 11:51:22.688225,email,313729.97,39,Non,FormationPhishing
+"Snyder, Campos and Callahan",Finance,1486,exploitation de vulnérabilité,2024-10-29 15:52:27.727003,téléchargement,566320.04,23,Non,MFA
+Baker and Sons,Santé,457,ransomware,2024-10-31 07:48:17.631609,port ouvert,259790.18,12,Oui,FormationPhishing
+Morales-Jones,Technologie,1282,exploitation de vulnérabilité,2024-11-02 06:25:02.435846,API vulnérable,71311.73,3,Oui,FormationPhishing
+James Group,Transport,914,phishing,2024-11-02 13:26:31.519393,clé USB,97830.65,40,Non,
+"Mcclain, Miller and Henderson",Énergie,101,malware,2024-11-02 19:03:59.611504,clé USB,742893.16,25,Non,PatchUrgent
+"Mcclain, Miller and Henderson",Industrie,101,phishing,2024-11-03 07:27:40.150233,site compromis,182644.12,9,Non,
+Blake and Sons,Santé,507,fuite de données,2024-11-03 20:56:50.390208,téléchargement,720437.12,8,Non,PatchUrgent
+James Group,Énergie,914,account takeover,2024-11-08 09:36:17.134463,port ouvert,156422.89,25,Non,FormationPhishing
+"Flowers, Martin and Kelly",Santé,115,fuite de données,2024-11-08 09:51:38.871305,site compromis,116440.96,25,Non,FormationPhishing
+"Walter, Edwards and Rios",Industrie,104,ransomware,2024-11-09 15:48:46.433614,site compromis,569233.29,26,Non,
+"Adams, Zuniga and Wong",Santé,111,phishing,2024-11-11 04:06:25.151658,port ouvert,774382.85,3,Oui,FormationPhishing
+"Gardner, Robinson and Lawrence",Énergie,551,phishing,2024-11-11 22:23:15.113637,API vulnérable,464093.02,26,Non,
+Baker and Sons,Technologie,457,intrusion,2024-11-13 02:54:54.975665,téléchargement,395651.75,31,Oui,MFA
+"Hoffman, Baker and Richards",Technologie,1516,intrusion,2024-11-13 21:40:22.578459,site compromis,923488.94,26,Oui,AuditSécurité
+"Flowers, Martin and Kelly",Énergie,115,fuite de données,2024-11-15 15:59:09.018634,API vulnérable,469148.04,36,Non,FormationPhishing
+Morales-Jones,Technologie,1282,phishing,2024-11-16 04:23:31.111481,API vulnérable,40473.03,14,Non,PatchUrgent
+"Mcclain, Miller and Henderson",Transport,101,ddos,2024-11-16 18:57:48.642515,RDP exposé,115928.09,18,Oui,
+"Mcclure, Ward and Lee",Énergie,1166,phishing,2024-11-17 16:55:47.760963,RDP exposé,223396.86,5,Non,AuditSécurité
+"Ross, Robinson and Bright",Commerce,1380,ddos,2024-11-19 00:35:24.982023,email,120740.8,29,Oui,MFA
+"Henderson, Ramirez and Lewis",Éducation,335,malware,2024-11-19 20:47:46.837489,port ouvert,1082727.12,28,Oui,
+Galloway-Wyatt,Industrie,1259,phishing,2024-11-21 04:31:57.671485,clé USB,64880.1,30,Oui,MFA
+"Adams, Zuniga and Wong",Santé,111,ransomware,2024-11-23 15:58:18.306480,clé USB,813834.5,9,Oui,PatchUrgent
+"Walter, Edwards and Rios",Finance,104,ddos,2024-11-23 18:14:17.026936,téléchargement,340528.27,36,Oui,FormationPhishing
+"Rodriguez, Figueroa and Sanchez",Éducation,1359,malware,2024-11-24 03:49:19.987509,site compromis,1739440.4,37,Non,PatchUrgent
+"Reid, Ferguson and Sanchez",Technologie,241,exploitation de vulnérabilité,2024-11-24 19:12:13.789273,RDP exposé,1420633.67,11,Non,PatchUrgent
+Perez Inc,Énergie,1084,exploitation de vulnérabilité,2024-11-25 00:16:46.000269,site compromis,227862.46,37,Non,
+"Flowers, Martin and Kelly",Finance,115,ddos,2024-11-26 00:38:13.484661,API vulnérable,800606.96,19,Oui,PatchUrgent
+Doyle Ltd,Technologie,278,ransomware,2024-11-27 12:06:01.865572,RDP exposé,698133.41,18,Oui,AuditSécurité
+Garcia-James,Énergie,1558,intrusion,2024-12-01 02:22:27.810689,API vulnérable,925571.8,35,Non,FormationPhishing
+"Walter, Edwards and Rios",Transport,104,exploitation de vulnérabilité,2024-12-01 12:53:03.236209,API vulnérable,447340.74,37,Non,FormationPhishing
+"Adams, Zuniga and Wong",Technologie,111,phishing,2024-12-03 16:44:10.292496,API vulnérable,1231262.46,11,Oui,FormationPhishing
+Dudley Group,Transport,1566,malware,2024-12-04 18:05:34.402502,site compromis,792852.08,32,Oui,FormationPhishing
+"Reid, Ferguson and Sanchez",Transport,241,intrusion,2024-12-06 11:46:52.915858,API vulnérable,22146.63,28,Oui,FormationPhishing
+Galloway-Wyatt,Technologie,1259,ransomware,2024-12-07 07:37:50.200478,RDP exposé,675153.8,44,Non,PatchUrgent
+James Group,Commerce,914,fuite de données,2024-12-07 07:55:01.476578,port ouvert,216177.79,29,Non,FormationPhishing
+"Gardner, Robinson and Lawrence",Éducation,551,intrusion,2024-12-07 18:10:38.263442,API vulnérable,65128.81,14,Non,
+Blake and Sons,Transport,507,ransomware,2024-12-08 16:46:45.157112,API vulnérable,304191.4,0,Oui,PatchUrgent
+"Ross, Robinson and Bright",Énergie,1380,malware,2024-12-09 01:51:58.897286,port ouvert,375496.79,28,Oui,MFA
+"Watts, Robinson and Nguyen",Industrie,526,phishing,2024-12-09 22:12:44.035486,clé USB,209216.97,28,Oui,AuditSécurité
+"Rodriguez, Figueroa and Sanchez",Technologie,1359,fuite de données,2024-12-10 21:11:33.081028,API vulnérable,111884.48,46,Oui,PatchUrgent
+"Mcclure, Ward and Lee",Commerce,1166,fuite de données,2024-12-11 14:41:40.153104,site compromis,543130.1,4,Oui,FormationPhishing
+"Henderson, Ramirez and Lewis",Éducation,335,fuite de données,2024-12-12 03:57:23.727471,API vulnérable,67664.09,22,Non,PatchUrgent
+"Gardner, Robinson and Lawrence",Énergie,551,fuite de données,2024-12-13 04:49:05.904460,clé USB,440214.68,45,Non,PatchUrgent
+Doyle Ltd,Finance,278,fuite de données,2024-12-13 05:09:42.948941,site compromis,230115.1,53,Oui,PatchUrgent
+Dudley Group,Finance,1566,intrusion,2024-12-13 12:13:33.567318,téléchargement,284230.49,39,Non,FormationPhishing
+James Group,Commerce,914,malware,2024-12-17 21:01:30.317101,port ouvert,25673.93,19,Oui,PatchUrgent
+"Watts, Robinson and Nguyen",Éducation,526,account takeover,2024-12-18 00:41:12.810646,RDP exposé,456800.05,17,Non,PatchUrgent
+Baker and Sons,Industrie,457,intrusion,2024-12-18 03:37:51.028352,email,895103.77,30,Non,MFA
+"Walter, Edwards and Rios",Finance,104,fuite de données,2024-12-19 12:43:42.560207,RDP exposé,539261.0,15,Oui,FormationPhishing
+Blake and Sons,Énergie,507,intrusion,2024-12-20 06:15:58.124721,téléchargement,176982.29,20,Non,FormationPhishing
+"Gardner, Robinson and Lawrence",Industrie,551,ransomware,2024-12-20 09:20:03.983623,RDP exposé,75654.44,43,Non,
+"Henderson, Ramirez and Lewis",Finance,335,account takeover,2024-12-20 14:40:58.736691,email,1359664.77,28,Non,MFA
+"Snyder, Campos and Callahan",Transport,1486,account takeover,2024-12-22 04:03:24.915165,site compromis,745655.06,31,Non,FormationPhishing
+Arnold Ltd,Éducation,1877,ransomware,2024-12-24 17:23:54.846173,clé USB,303271.28,37,Oui,AuditSécurité
+James Group,Santé,914,fuite de données,2024-12-25 16:27:02.592909,téléchargement,206964.65,23,Non,FormationPhishing
+Morales-Jones,Commerce,1282,exploitation de vulnérabilité,2024-12-25 18:55:35.463012,clé USB,100319.34,20,Non,PatchUrgent
+"Ross, Robinson and Bright",Énergie,1380,phishing,2024-12-26 22:01:04.508492,RDP exposé,553875.97,17,Oui,
+"Ross, Robinson and Bright",Technologie,1380,ransomware,2024-12-29 12:18:16.783679,site compromis,164750.61,29,Non,
+Doyle Ltd,Technologie,278,exploitation de vulnérabilité,2024-12-29 15:11:00.969886,RDP exposé,38660.08,20,Oui,FormationPhishing
+Blair PLC,Santé,1435,exploitation de vulnérabilité,2024-12-30 05:55:42.450781,port ouvert,80525.98,13,Non,
+Doyle Ltd,Éducation,278,malware,2024-12-31 05:30:34.750363,port ouvert,716273.1,37,Oui,MFA
+"Gardner, Robinson and Lawrence",Énergie,551,intrusion,2024-12-31 11:41:07.097314,téléchargement,620321.77,16,Oui,PatchUrgent
+Galloway-Wyatt,Transport,1259,account takeover,2025-01-01 11:29:46.285620,email,1021007.58,36,Oui,PatchUrgent
+"Gardner, Robinson and Lawrence",Transport,551,ransomware,2025-01-01 12:34:11.461381,clé USB,331196.76,29,Oui,
+"Henderson, Ramirez and Lewis",Finance,335,malware,2025-01-03 08:20:12.743802,RDP exposé,404126.38,3,Oui,FormationPhishing
+Abbott-Munoz,Transport,259,exploitation de vulnérabilité,2025-01-03 10:59:09.484521,site compromis,803254.48,14,Oui,
+"Hoffman, Baker and Richards",Commerce,1516,ddos,2025-01-03 22:44:54.557190,email,121774.92,36,Oui,
+Wilkerson-Day,Éducation,1199,fuite de données,2025-01-04 01:12:38.325449,site compromis,560836.03,10,Oui,MFA
+Morales-Jones,Industrie,1282,phishing,2025-01-06 23:28:49.411528,RDP exposé,1230751.79,38,Non,FormationPhishing
+Perez Inc,Technologie,1084,fuite de données,2025-01-07 18:58:16.250927,email,557595.53,40,Non,FormationPhishing
+"Guzman, Hoffman and Baldwin",Commerce,613,phishing,2025-01-08 17:02:17.205563,email,430441.98,35,Non,MFA
+Abbott-Munoz,Commerce,259,ddos,2025-01-10 09:02:51.370672,email,452493.64,34,Oui,PatchUrgent
+James Group,Transport,914,ransomware,2025-01-10 23:17:37.620501,port ouvert,339984.31,10,Non,AuditSécurité
+Gray-Mayo,Énergie,497,fuite de données,2025-01-11 14:26:33.104781,clé USB,617846.06,10,Oui,
+"Mcclure, Ward and Lee",Technologie,1166,exploitation de vulnérabilité,2025-01-11 16:21:28.581273,API vulnérable,32308.65,26,Non,PatchUrgent
+"Guzman, Hoffman and Baldwin",Industrie,613,intrusion,2025-01-12 02:53:18.091190,port ouvert,396818.42,35,Oui,MFA
+Arnold Ltd,Transport,1877,phishing,2025-01-12 19:37:13.178127,clé USB,121759.12,35,Oui,FormationPhishing
+Morales-Jones,Finance,1282,ddos,2025-01-13 11:46:56.955924,clé USB,473142.12,24,Oui,PatchUrgent
+Doyle Ltd,Énergie,278,fuite de données,2025-01-13 15:49:56.906824,clé USB,80533.95,19,Non,AuditSécurité
+Doyle Ltd,Transport,278,account takeover,2025-01-13 16:35:07.608519,site compromis,345483.22,19,Oui,MFA
+Wilkerson-Day,Finance,1199,intrusion,2025-01-16 03:31:08.277087,email,501302.64,44,Non,PatchUrgent
+"Snyder, Campos and Callahan",Éducation,1486,ddos,2025-01-17 05:27:11.984259,site compromis,90261.72,31,Oui,PatchUrgent
+Galloway-Wyatt,Commerce,1259,ransomware,2025-01-17 10:46:10.959499,API vulnérable,681939.56,50,Non,MFA
+"Adams, Zuniga and Wong",Technologie,111,account takeover,2025-01-17 21:21:02.804675,email,101330.79,22,Non,PatchUrgent
+"Henderson, Ramirez and Lewis",Énergie,335,phishing,2025-01-18 11:49:10.389241,port ouvert,996593.31,17,Non,AuditSécurité
+"Gardner, Robinson and Lawrence",Finance,551,exploitation de vulnérabilité,2025-01-20 20:12:51.717946,site compromis,524006.95,0,Non,AuditSécurité
+"Guzman, Hoffman and Baldwin",Commerce,613,exploitation de vulnérabilité,2025-01-22 15:33:25.510600,téléchargement,106564.18,18,Non,MFA
+Blair PLC,Santé,1435,ransomware,2025-01-22 23:57:53.477122,API vulnérable,682425.82,43,Non,AuditSécurité
+"Mcclure, Ward and Lee",Santé,1166,intrusion,2025-01-23 18:04:06.281284,clé USB,192345.08,30,Oui,AuditSécurité
+"Reid, Ferguson and Sanchez",Finance,241,account takeover,2025-01-24 06:36:59.201074,clé USB,180222.42,32,Oui,MFA
+Davis and Sons,Éducation,1568,exploitation de vulnérabilité,2025-01-24 07:02:35.739070,email,149862.75,26,Non,
+Morales-Jones,Industrie,1282,account takeover,2025-01-24 23:00:34.940959,téléchargement,23257.48,34,Oui,AuditSécurité
+Baker and Sons,Commerce,457,account takeover,2025-01-26 05:19:26.627394,RDP exposé,793693.03,55,Non,MFA
+Morales-Jones,Santé,1282,ransomware,2025-01-28 01:59:36.082066,port ouvert,159203.63,34,Non,FormationPhishing
+Perez Inc,Éducation,1084,account takeover,2025-01-28 06:36:51.353678,clé USB,411063.9,32,Non,MFA
+Blair PLC,Énergie,1435,account takeover,2025-01-28 09:23:26.929310,email,133683.13,12,Non,
+"Reid, Ferguson and Sanchez",Santé,241,ransomware,2025-01-29 14:42:31.943664,site compromis,77599.76,46,Oui,PatchUrgent
+Morales-Jones,Transport,1282,ransomware,2025-01-30 12:57:14.410990,site compromis,397226.07,18,Non,MFA
+"Walter, Edwards and Rios",Transport,104,phishing,2025-01-30 14:07:53.148180,RDP exposé,1148443.32,23,Non,PatchUrgent
+"Snyder, Campos and Callahan",Technologie,1486,malware,2025-01-30 18:55:38.575807,RDP exposé,245880.39,0,Non,AuditSécurité
+"Hoffman, Baker and Richards",Commerce,1516,ddos,2025-01-31 02:17:09.297516,RDP exposé,190491.9,11,Non,FormationPhishing
+"Reid, Ferguson and Sanchez",Santé,241,malware,2025-01-31 23:09:33.993964,port ouvert,457523.84,70,Oui,
+Davis and Sons,Finance,1568,phishing,2025-02-03 21:46:02.892925,site compromis,498700.03,32,Oui,MFA
+Dudley Group,Transport,1566,exploitation de vulnérabilité,2025-02-05 17:00:54.247435,site compromis,596744.36,3,Oui,MFA
+"Rodriguez, Figueroa and Sanchez",Finance,1359,account takeover,2025-02-06 19:59:29.705435,téléchargement,394289.3,53,Oui,
+Abbott-Munoz,Technologie,259,intrusion,2025-02-07 13:13:38.186150,site compromis,305508.73,22,Non,MFA
+"Mcclain, Miller and Henderson",Santé,101,ddos,2025-02-08 12:14:17.777052,RDP exposé,248538.77,35,Oui,
+Williams and Sons,Énergie,228,phishing,2025-02-12 18:22:45.746934,email,237809.13,7,Non,PatchUrgent
+James Group,Industrie,914,ransomware,2025-02-13 14:24:20.241676,port ouvert,346156.38,20,Non,MFA
+"Gardner, Robinson and Lawrence",Industrie,551,exploitation de vulnérabilité,2025-02-16 05:05:33.238591,clé USB,371863.1,25,Non,MFA
+Garcia-James,Énergie,1558,account takeover,2025-02-16 06:12:23.398108,port ouvert,155858.98,54,Oui,PatchUrgent
+Blake and Sons,Éducation,507,exploitation de vulnérabilité,2025-02-16 21:45:08.871758,clé USB,269667.7,22,Non,MFA
+Galloway-Wyatt,Industrie,1259,ddos,2025-02-17 16:01:31.553251,site compromis,26153.16,0,Non,
+"Ross, Robinson and Bright",Énergie,1380,ddos,2025-02-19 06:09:06.822799,téléchargement,676562.52,30,Non,AuditSécurité
+"Watts, Robinson and Nguyen",Éducation,526,fuite de données,2025-02-21 01:48:21.451220,email,656567.26,40,Non,PatchUrgent
+"Snyder, Campos and Callahan",Technologie,1486,ransomware,2025-02-21 12:26:14.250833,API vulnérable,896232.65,20,Non,AuditSécurité
+Baker and Sons,Industrie,457,account takeover,2025-02-21 17:24:36.330142,clé USB,1136648.89,36,Non,FormationPhishing
+Blake and Sons,Industrie,507,phishing,2025-02-22 05:29:49.976578,API vulnérable,736815.87,11,Non,MFA
+Williams and Sons,Éducation,228,phishing,2025-02-24 04:02:42.427746,RDP exposé,715141.73,26,Oui,PatchUrgent
+"Flowers, Martin and Kelly",Commerce,115,fuite de données,2025-02-24 08:48:35.918653,port ouvert,212109.73,40,Non,MFA
+Baker and Sons,Technologie,457,malware,2025-02-24 09:59:34.600250,téléchargement,182505.75,45,Non,
+Dudley Group,Éducation,1566,account takeover,2025-02-25 04:08:30.700184,port ouvert,154203.38,5,Oui,FormationPhishing
+"Guzman, Hoffman and Baldwin",Énergie,613,fuite de données,2025-02-25 04:52:04.914082,port ouvert,186894.6,9,Non,FormationPhishing
+Morales-Jones,Commerce,1282,intrusion,2025-02-26 07:42:13.774648,email,118693.56,38,Non,MFA
+"Henderson, Ramirez and Lewis",Énergie,335,fuite de données,2025-02-27 02:12:40.599034,téléchargement,414809.11,26,Non,MFA
+Davis and Sons,Technologie,1568,phishing,2025-02-28 17:45:18.289543,port ouvert,17523.64,13,Non,PatchUrgent
+"Adams, Zuniga and Wong",Technologie,111,exploitation de vulnérabilité,2025-03-02 09:25:38.096807,API vulnérable,183436.51,45,Non,AuditSécurité
+Gray-Mayo,Énergie,497,account takeover,2025-03-02 23:46:36.759498,API vulnérable,69879.84,14,Oui,PatchUrgent
+"Snyder, Campos and Callahan",Finance,1486,exploitation de vulnérabilité,2025-03-03 14:19:26.999155,RDP exposé,715922.27,6,Oui,AuditSécurité
+Baker and Sons,Énergie,457,malware,2025-03-04 10:41:36.190884,email,485950.57,4,Oui,FormationPhishing
+"Gardner, Robinson and Lawrence",Commerce,551,exploitation de vulnérabilité,2025-03-04 16:39:38.476221,téléchargement,138461.0,31,Oui,PatchUrgent
+"Mcclain, Miller and Henderson",Transport,101,fuite de données,2025-03-06 13:44:22.009825,email,634702.64,30,Non,PatchUrgent
+"Ross, Robinson and Bright",Technologie,1380,fuite de données,2025-03-07 20:55:56.005803,port ouvert,561190.68,19,Non,PatchUrgent
+"Flowers, Martin and Kelly",Finance,115,phishing,2025-03-08 12:53:20.796786,site compromis,267719.35,37,Non,
+Morales-Jones,Commerce,1282,malware,2025-03-10 00:03:38.264260,site compromis,32655.23,22,Oui,FormationPhishing
+Wilkerson-Day,Commerce,1199,intrusion,2025-03-13 19:35:04.150421,RDP exposé,256758.67,31,Oui,AuditSécurité
+"Snyder, Campos and Callahan",Commerce,1486,exploitation de vulnérabilité,2025-03-15 07:07:22.216618,email,179566.33,25,Oui,FormationPhishing
+Dudley Group,Santé,1566,malware,2025-03-15 16:41:17.161430,RDP exposé,54094.37,5,Non,PatchUrgent
+Williams and Sons,Énergie,228,account takeover,2025-03-16 17:03:39.540712,email,864097.07,30,Non,AuditSécurité
+"Rodriguez, Figueroa and Sanchez",Commerce,1359,exploitation de vulnérabilité,2025-03-18 04:14:33.757239,RDP exposé,485445.26,37,Oui,FormationPhishing
+James Group,Santé,914,phishing,2025-03-18 05:17:08.421167,RDP exposé,354416.51,44,Oui,FormationPhishing
+Dudley Group,Commerce,1566,ransomware,2025-03-21 14:37:10.357315,API vulnérable,262612.25,18,Oui,FormationPhishing
+"Flowers, Martin and Kelly",Commerce,115,ransomware,2025-03-22 09:29:27.155913,RDP exposé,355287.92,45,Non,
+Baker and Sons,Commerce,457,intrusion,2025-03-22 11:13:04.316162,port ouvert,284680.41,7,Non,FormationPhishing
+Davis and Sons,Technologie,1568,ddos,2025-03-23 09:21:10.073573,email,474092.71,32,Oui,MFA
+"Guzman, Hoffman and Baldwin",Santé,613,malware,2025-03-23 14:30:50.887619,email,1016715.77,10,Oui,AuditSécurité
+Garcia-James,Finance,1558,ransomware,2025-03-23 16:41:31.844357,téléchargement,124107.45,31,Oui,PatchUrgent
+"Guzman, Hoffman and Baldwin",Technologie,613,exploitation de vulnérabilité,2025-03-25 14:21:11.840763,API vulnérable,67671.58,56,Oui,MFA
+Garcia-James,Commerce,1558,phishing,2025-03-26 08:46:03.783691,clé USB,165183.32,26,Oui,FormationPhishing
+Abbott-Munoz,Transport,259,phishing,2025-03-26 14:39:22.817744,site compromis,232237.21,0,Oui,MFA
+Doyle Ltd,Industrie,278,account takeover,2025-03-26 18:12:19.240864,RDP exposé,442366.41,13,Oui,MFA
+Davis and Sons,Transport,1568,ddos,2025-03-26 22:34:40.005321,RDP exposé,89373.19,20,Oui,PatchUrgent
+"Hoffman, Baker and Richards",Industrie,1516,malware,2025-03-27 03:49:19.520309,site compromis,762056.36,35,Oui,AuditSécurité
+Gray-Mayo,Finance,497,intrusion,2025-03-28 01:26:55.005669,téléchargement,186797.12,27,Non,
+"Walter, Edwards and Rios",Éducation,104,ddos,2025-03-28 10:34:47.567384,port ouvert,302070.38,14,Non,AuditSécurité
+Blair PLC,Finance,1435,phishing,2025-03-30 19:31:29.658522,RDP exposé,965375.42,38,Non,MFA
+"Mcclure, Ward and Lee",Commerce,1166,fuite de données,2025-03-31 00:49:31.061832,API vulnérable,290510.78,8,Oui,MFA
+Dudley Group,Technologie,1566,malware,2025-03-31 18:49:26.340400,site compromis,536286.85,46,Non,PatchUrgent
+"Ross, Robinson and Bright",Technologie,1380,fuite de données,2025-04-01 06:57:18.027272,clé USB,75929.07,54,Oui,FormationPhishing
+"Mcclain, Miller and Henderson",Santé,101,exploitation de vulnérabilité,2025-04-01 15:46:58.611546,RDP exposé,663088.77,46,Oui,AuditSécurité
+"Guzman, Hoffman and Baldwin",Technologie,613,malware,2025-04-04 15:21:58.005091,RDP exposé,488834.68,12,Oui,
+"Hoffman, Baker and Richards",Industrie,1516,exploitation de vulnérabilité,2025-04-04 20:29:54.093055,email,168660.45,35,Oui,FormationPhishing
+"Hoffman, Baker and Richards",Transport,1516,intrusion,2025-04-06 12:03:22.408793,RDP exposé,341643.94,20,Oui,
+James Group,Finance,914,fuite de données,2025-04-07 01:07:59.990801,site compromis,613771.22,24,Oui,
+"Reid, Ferguson and Sanchez",Industrie,241,exploitation de vulnérabilité,2025-04-07 16:14:49.250649,clé USB,527950.39,26,Non,FormationPhishing
+Wilkerson-Day,Énergie,1199,phishing,2025-04-08 01:46:10.096617,clé USB,312046.24,24,Non,MFA
+Doyle Ltd,Santé,278,phishing,2025-04-09 12:00:43.787502,site compromis,283226.1,29,Oui,AuditSécurité
+Williams and Sons,Énergie,228,fuite de données,2025-04-09 22:35:21.976139,clé USB,1237630.44,15,Oui,FormationPhishing
+"Adams, Zuniga and Wong",Santé,111,phishing,2025-04-10 11:01:18.544278,RDP exposé,163568.59,21,Non,FormationPhishing
+Arnold Ltd,Commerce,1877,phishing,2025-04-10 15:19:14.318551,clé USB,470731.36,33,Oui,FormationPhishing
+"Rodriguez, Figueroa and Sanchez",Finance,1359,ddos,2025-04-12 02:05:37.523707,RDP exposé,287340.84,33,Oui,AuditSécurité
+Blake and Sons,Éducation,507,ddos,2025-04-14 08:31:55.931959,API vulnérable,72191.36,25,Non,AuditSécurité
+Morales-Jones,Industrie,1282,intrusion,2025-04-14 22:41:05.125975,email,738003.57,24,Non,AuditSécurité
+Garcia-James,Santé,1558,malware,2025-04-14 23:50:54.711957,email,667839.2,39,Non,PatchUrgent
+Abbott-Munoz,Transport,259,exploitation de vulnérabilité,2025-04-15 15:03:01.892311,téléchargement,86831.0,17,Oui,PatchUrgent
+Doyle Ltd,Finance,278,exploitation de vulnérabilité,2025-04-16 20:30:44.177774,clé USB,956724.87,31,Oui,PatchUrgent
+"Ross, Robinson and Bright",Industrie,1380,ddos,2025-04-17 11:16:33.634717,email,285828.37,7,Non,FormationPhishing
+Wilkerson-Day,Transport,1199,ransomware,2025-04-18 17:25:07.789680,RDP exposé,796867.82,28,Oui,MFA
+Blake and Sons,Industrie,507,fuite de données,2025-04-18 23:58:40.745831,clé USB,212255.09,29,Non,MFA
+"Rodriguez, Figueroa and Sanchez",Technologie,1359,ddos,2025-04-20 18:07:32.646249,port ouvert,371362.67,29,Oui,
+Abbott-Munoz,Énergie,259,exploitation de vulnérabilité,2025-04-20 19:37:52.960193,clé USB,164917.14,4,Non,MFA
+Perez Inc,Énergie,1084,fuite de données,2025-04-21 04:12:12.048444,RDP exposé,72459.54,28,Non,
+Dudley Group,Finance,1566,exploitation de vulnérabilité,2025-04-21 18:40:37.872536,email,503755.85,14,Oui,PatchUrgent
+James Group,Éducation,914,ransomware,2025-04-22 02:58:59.806958,RDP exposé,293383.38,14,Oui,MFA
+Morales-Jones,Finance,1282,exploitation de vulnérabilité,2025-04-26 15:15:59.091619,RDP exposé,214159.19,24,Oui,
+"Mcclain, Miller and Henderson",Technologie,101,account takeover,2025-04-27 16:05:52.401990,clé USB,414408.25,32,Non,AuditSécurité
+Blake and Sons,Technologie,507,phishing,2025-04-28 00:12:19.541793,RDP exposé,334563.47,19,Oui,PatchUrgent
+James Group,Éducation,914,ddos,2025-04-28 05:35:28.014887,RDP exposé,385572.94,16,Oui,PatchUrgent
+"Ross, Robinson and Bright",Transport,1380,phishing,2025-04-28 08:03:57.469101,téléchargement,493428.55,50,Non,AuditSécurité
+Abbott-Munoz,Technologie,259,phishing,2025-04-28 17:51:35.898902,site compromis,369248.2,19,Oui,FormationPhishing
+Williams and Sons,Finance,228,fuite de données,2025-04-30 07:11:19.246541,clé USB,284327.34,29,Non,PatchUrgent
+"Henderson, Ramirez and Lewis",Transport,335,account takeover,2025-05-01 00:05:12.956045,clé USB,222785.92,16,Oui,AuditSécurité
+"Reid, Ferguson and Sanchez",Technologie,241,account takeover,2025-05-01 11:13:23.067679,RDP exposé,160179.3,29,Oui,PatchUrgent
+Baker and Sons,Éducation,457,malware,2025-05-05 03:56:10.534858,port ouvert,257113.82,25,Oui,PatchUrgent
+Wilkerson-Day,Technologie,1199,account takeover,2025-05-05 05:36:50.465029,téléchargement,1349449.06,19,Non,PatchUrgent
+"Rodriguez, Figueroa and Sanchez",Transport,1359,fuite de données,2025-05-06 06:26:52.261821,site compromis,46110.88,26,Non,PatchUrgent
+"Mcclure, Ward and Lee",Industrie,1166,exploitation de vulnérabilité,2025-05-06 09:27:19.922467,API vulnérable,249207.34,29,Oui,AuditSécurité
+Wilkerson-Day,Finance,1199,exploitation de vulnérabilité,2025-05-06 17:16:15.867775,site compromis,690882.74,20,Non,AuditSécurité
+"Guzman, Hoffman and Baldwin",Transport,613,intrusion,2025-05-06 22:52:05.522523,clé USB,789649.91,32,Non,AuditSécurité
+Davis and Sons,Énergie,1568,fuite de données,2025-05-07 18:41:47.934280,API vulnérable,699155.45,18,Oui,FormationPhishing
+"Henderson, Ramirez and Lewis",Technologie,335,phishing,2025-05-08 13:06:57.778655,API vulnérable,312342.36,35,Non,AuditSécurité
+"Mcclain, Miller and Henderson",Commerce,101,exploitation de vulnérabilité,2025-05-08 17:04:58.427623,port ouvert,277561.29,29,Non,AuditSécurité
+"Reid, Ferguson and Sanchez",Technologie,241,exploitation de vulnérabilité,2025-05-11 08:45:05.609138,téléchargement,844876.38,32,Non,FormationPhishing
+"Hoffman, Baker and Richards",Finance,1516,exploitation de vulnérabilité,2025-05-11 22:45:21.299325,email,456953.92,26,Oui,FormationPhishing
+"Mcclure, Ward and Lee",Commerce,1166,phishing,2025-05-15 04:10:52.921760,clé USB,340531.66,31,Non,PatchUrgent
+Williams and Sons,Santé,228,account takeover,2025-05-16 02:24:12.343053,RDP exposé,961562.04,30,Non,PatchUrgent
+Blake and Sons,Santé,507,ransomware,2025-05-16 03:20:41.154589,API vulnérable,163994.94,36,Non,PatchUrgent
+Galloway-Wyatt,Commerce,1259,phishing,2025-05-16 23:34:10.361969,téléchargement,781581.88,24,Non,PatchUrgent
+"Henderson, Ramirez and Lewis",Commerce,335,ddos,2025-05-17 03:03:57.452329,port ouvert,333525.13,34,Oui,AuditSécurité
+Arnold Ltd,Transport,1877,malware,2025-05-17 04:47:12.519684,RDP exposé,264052.21,15,Oui,
+Garcia-James,Finance,1558,fuite de données,2025-05-18 06:53:09.664536,site compromis,363463.69,21,Oui,PatchUrgent
+"Adams, Zuniga and Wong",Finance,111,malware,2025-05-18 16:25:45.536144,site compromis,201837.28,43,Oui,FormationPhishing
+"Flowers, Martin and Kelly",Industrie,115,account takeover,2025-05-19 20:31:41.205190,téléchargement,606262.91,40,Non,AuditSécurité
+Galloway-Wyatt,Transport,1259,malware,2025-05-21 18:59:47.277264,téléchargement,62474.15,0,Non,
+"Reid, Ferguson and Sanchez",Santé,241,phishing,2025-05-22 23:53:12.596619,téléchargement,146484.82,11,Oui,
+Morales-Jones,Éducation,1282,fuite de données,2025-05-23 16:57:25.346861,API vulnérable,196260.37,22,Non,PatchUrgent
+Galloway-Wyatt,Santé,1259,fuite de données,2025-05-25 22:34:27.823404,port ouvert,479928.07,32,Oui,AuditSécurité
+Galloway-Wyatt,Commerce,1259,phishing,2025-05-25 23:10:12.625051,email,759385.61,23,Non,PatchUrgent
+Blair PLC,Transport,1435,account takeover,2025-05-26 01:32:34.379373,port ouvert,248497.98,31,Oui,MFA
+Wilkerson-Day,Éducation,1199,ddos,2025-05-28 15:30:09.664262,API vulnérable,145619.93,28,Oui,
+"Hoffman, Baker and Richards",Industrie,1516,malware,2025-05-29 11:48:14.588743,port ouvert,1278654.11,16,Non,AuditSécurité
+Arnold Ltd,Éducation,1877,intrusion,2025-05-29 16:18:44.104852,RDP exposé,531440.63,38,Oui,MFA
+"Mcclure, Ward and Lee",Santé,1166,fuite de données,2025-05-29 21:38:52.274772,site compromis,951178.53,24,Oui,
+"Flowers, Martin and Kelly",Commerce,115,malware,2025-05-31 08:21:44.484451,site compromis,198198.73,10,Non,
+"Adams, Zuniga and Wong",Transport,111,ddos,2025-06-01 09:32:18.216424,site compromis,209110.34,49,Non,FormationPhishing
+Dudley Group,Énergie,1566,phishing,2025-06-04 12:38:56.339633,site compromis,333563.33,30,Non,MFA
+Williams and Sons,Santé,228,ransomware,2025-06-05 16:02:05.787015,site compromis,635562.35,20,Non,
+Blair PLC,Technologie,1435,account takeover,2025-06-06 19:21:45.310273,port ouvert,152352.23,27,Oui,AuditSécurité
+"Gardner, Robinson and Lawrence",Transport,551,account takeover,2025-06-06 22:12:12.785215,email,95938.87,18,Non,PatchUrgent
+"Reid, Ferguson and Sanchez",Industrie,241,ddos,2025-06-07 17:05:42.917092,téléchargement,254012.04,7,Non,AuditSécurité
+"Ross, Robinson and Bright",Transport,1380,account takeover,2025-06-08 00:07:45.087775,site compromis,390098.93,31,Non,AuditSécurité
+"Walter, Edwards and Rios",Commerce,104,intrusion,2025-06-08 09:48:13.994140,API vulnérable,455601.3,40,Non,AuditSécurité
+Abbott-Munoz,Commerce,259,ddos,2025-06-09 06:38:10.183406,RDP exposé,754091.41,11,Non,
+Blake and Sons,Commerce,507,account takeover,2025-06-09 08:51:31.154083,site compromis,375315.05,29,Oui,AuditSécurité
+Doyle Ltd,Commerce,278,account takeover,2025-06-10 04:23:34.269013,API vulnérable,975575.99,25,Oui,FormationPhishing
+"Reid, Ferguson and Sanchez",Santé,241,malware,2025-06-10 08:34:22.403427,RDP exposé,981466.22,11,Oui,
+"Mcclure, Ward and Lee",Énergie,1166,phishing,2025-06-11 03:16:33.399160,clé USB,516203.87,35,Non,PatchUrgent
+Garcia-James,Industrie,1558,fuite de données,2025-06-11 21:04:45.548700,email,507685.37,18,Oui,PatchUrgent
+Williams and Sons,Finance,228,ransomware,2025-06-12 01:52:43.395877,site compromis,134536.37,36,Oui,FormationPhishing
+"Gardner, Robinson and Lawrence",Transport,551,ransomware,2025-06-12 17:38:12.936506,site compromis,540945.74,46,Non,MFA
+"Hoffman, Baker and Richards",Énergie,1516,phishing,2025-06-13 18:55:38.519410,API vulnérable,209209.19,44,Non,PatchUrgent
+"Walter, Edwards and Rios",Éducation,104,account takeover,2025-06-13 22:00:43.775815,API vulnérable,106218.69,28,Non,FormationPhishing
+Blake and Sons,Transport,507,fuite de données,2025-06-14 00:36:41.536249,API vulnérable,51218.25,40,Oui,
+Doyle Ltd,Énergie,278,malware,2025-06-14 06:23:07.982514,port ouvert,359587.26,40,Oui,MFA
+Gray-Mayo,Industrie,497,intrusion,2025-06-15 16:15:39.408567,email,33850.6,28,Non,FormationPhishing
+Blake and Sons,Énergie,507,fuite de données,2025-06-15 23:39:05.906463,email,118869.99,17,Non,AuditSécurité
+Abbott-Munoz,Santé,259,phishing,2025-06-16 15:50:47.320755,email,301461.51,5,Non,AuditSécurité
+Garcia-James,Industrie,1558,intrusion,2025-06-16 17:39:22.898248,clé USB,32107.65,44,Oui,
+James Group,Technologie,914,intrusion,2025-06-18 03:36:22.640019,API vulnérable,353167.49,9,Non,MFA
+"Watts, Robinson and Nguyen",Industrie,526,account takeover,2025-06-18 05:42:21.091522,API vulnérable,186739.37,13,Non,FormationPhishing
+Morales-Jones,Transport,1282,intrusion,2025-06-18 18:05:14.136851,API vulnérable,158411.16,1,Oui,PatchUrgent
+"Hoffman, Baker and Richards",Santé,1516,phishing,2025-06-21 17:17:15.943325,téléchargement,342932.7,28,Oui,
+Wilkerson-Day,Industrie,1199,ransomware,2025-06-24 02:55:04.466476,email,294802.41,22,Non,AuditSécurité
+"Snyder, Campos and Callahan",Industrie,1486,malware,2025-06-24 09:10:54.663215,téléchargement,579464.29,27,Non,PatchUrgent
+"Hoffman, Baker and Richards",Finance,1516,exploitation de vulnérabilité,2025-06-26 04:38:31.114105,téléchargement,108551.78,40,Non,AuditSécurité
+"Flowers, Martin and Kelly",Transport,115,ransomware,2025-06-27 19:14:41.022595,email,891079.5,31,Oui,PatchUrgent
+Abbott-Munoz,Technologie,259,fuite de données,2025-06-28 09:27:40.639539,téléchargement,328775.2,23,Non,
+Garcia-James,Industrie,1558,malware,2025-06-28 19:54:24.081158,clé USB,798315.74,16,Non,FormationPhishing
+"Reid, Ferguson and Sanchez",Finance,241,intrusion,2025-06-29 07:52:56.830377,RDP exposé,192449.16,31,Non,FormationPhishing
+Abbott-Munoz,Commerce,259,fuite de données,2025-06-29 11:08:33.574221,site compromis,752762.97,38,Non,PatchUrgent
+Morales-Jones,Éducation,1282,intrusion,2025-07-01 05:50:11.082506,port ouvert,517360.73,37,Non,
+"Watts, Robinson and Nguyen",Technologie,526,malware,2025-07-02 00:27:28.858292,clé USB,676568.32,27,Non,FormationPhishing
+Wilkerson-Day,Finance,1199,ddos,2025-07-02 19:39:29.169500,port ouvert,196964.54,34,Non,PatchUrgent
+"Gardner, Robinson and Lawrence",Finance,551,ransomware,2025-07-03 16:03:43.785858,téléchargement,82123.8,26,Oui,AuditSécurité
+Williams and Sons,Énergie,228,exploitation de vulnérabilité,2025-07-04 17:47:01.819157,email,279928.2,11,Oui,PatchUrgent
+"Reid, Ferguson and Sanchez",Technologie,241,malware,2025-07-05 11:46:17.233062,port ouvert,142175.86,20,Oui,
+Doyle Ltd,Éducation,278,ransomware,2025-07-05 18:44:45.131534,RDP exposé,1014307.77,7,Non,AuditSécurité
+"Gardner, Robinson and Lawrence",Finance,551,fuite de données,2025-07-07 02:34:44.221619,téléchargement,32612.33,19,Oui,MFA
+"Mcclain, Miller and Henderson",Technologie,101,exploitation de vulnérabilité,2025-07-07 07:52:46.186778,RDP exposé,292863.02,30,Non,PatchUrgent
+"Henderson, Ramirez and Lewis",Finance,335,ransomware,2025-07-11 05:44:42.219260,RDP exposé,151026.55,20,Non,PatchUrgent
+Perez Inc,Transport,1084,intrusion,2025-07-11 13:44:22.074315,site compromis,33018.25,4,Non,MFA
+Blair PLC,Industrie,1435,phishing,2025-07-12 22:47:14.247795,port ouvert,25032.74,31,Oui,MFA
+James Group,Santé,914,intrusion,2025-07-13 14:54:59.719059,API vulnérable,390967.73,29,Oui,AuditSécurité
+"Hoffman, Baker and Richards",Éducation,1516,ransomware,2025-07-13 19:41:59.262750,clé USB,241141.99,36,Oui,FormationPhishing
+Blake and Sons,Commerce,507,fuite de données,2025-07-13 20:53:29.242749,API vulnérable,399843.98,16,Oui,MFA
+"Reid, Ferguson and Sanchez",Commerce,241,phishing,2025-07-14 00:21:22.035997,port ouvert,134371.52,24,Oui,
+"Reid, Ferguson and Sanchez",Commerce,241,account takeover,2025-07-16 11:42:59.635764,téléchargement,166960.1,9,Oui,PatchUrgent
+"Adams, Zuniga and Wong",Commerce,111,exploitation de vulnérabilité,2025-07-16 18:34:05.223402,API vulnérable,628829.81,22,Non,AuditSécurité
+Williams and Sons,Technologie,228,fuite de données,2025-07-16 20:26:24.243356,clé USB,65555.65,10,Oui,PatchUrgent
+"Mcclain, Miller and Henderson",Transport,101,exploitation de vulnérabilité,2025-07-16 22:31:28.847921,site compromis,855154.37,40,Oui,MFA
+Williams and Sons,Industrie,228,exploitation de vulnérabilité,2025-07-17 03:13:32.670239,email,1035822.25,14,Oui,AuditSécurité
+Wilkerson-Day,Santé,1199,phishing,2025-07-18 03:47:36.413723,API vulnérable,243523.53,20,Oui,FormationPhishing
+Galloway-Wyatt,Technologie,1259,account takeover,2025-07-20 05:43:04.628695,RDP exposé,81084.01,21,Oui,
+James Group,Santé,914,ransomware,2025-07-20 08:31:59.398264,RDP exposé,509577.13,48,Oui,
+Doyle Ltd,Finance,278,intrusion,2025-07-21 01:47:08.490810,téléchargement,95488.37,13,Non,MFA
+James Group,Industrie,914,ransomware,2025-07-21 10:59:40.912808,email,123113.65,45,Non,PatchUrgent
+Morales-Jones,Finance,1282,ddos,2025-07-28 03:49:42.043641,RDP exposé,105884.55,23,Oui,
+"Henderson, Ramirez and Lewis",Commerce,335,ransomware,2025-07-28 19:45:47.852379,téléchargement,112781.35,28,Non,FormationPhishing
+Doyle Ltd,Industrie,278,ddos,2025-07-29 02:52:11.959226,site compromis,718102.69,30,Oui,MFA
+"Walter, Edwards and Rios",Éducation,104,exploitation de vulnérabilité,2025-07-30 16:00:55.588254,RDP exposé,414774.8,29,Non,AuditSécurité
+"Rodriguez, Figueroa and Sanchez",Transport,1359,ddos,2025-07-31 09:49:21.123840,API vulnérable,361539.64,20,Non,AuditSécurité
